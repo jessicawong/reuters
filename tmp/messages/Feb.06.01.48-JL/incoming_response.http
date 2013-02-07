@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 09:48:54 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 09:46:04 GMT
+Age: 169
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 21
+Connection: close
+Content-Type: text/plain;charset=UTF-8
+
+

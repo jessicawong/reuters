@@ -1,0 +1,14 @@
+GET /resources_v2/images/sprite-core2.gif HTTP/1.0
+Host: www.reuters.com
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.30 (KHTML, like Gecko) Chrome/26.0.1404.0 Safari/537.30
+Accept: */*
+Referer: http://mlocal.reuters.com/
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: RE_USERID=b16bd6b0-8e33-4d42-a0b4-251afefd94aa; _wt.user-632897=WT3034MJsW5SYPMLMbE5zctS8vYHXs40odv7CFZH9zEYBccUlwv9pFw2qVBzYqdnXwOUmwITRddoMVLWQNmS3etb3g2eAjkLvLz68B9XxAxu5E~; __csmv=22fcb52686b174f8; adDisplayManager=freqCap_pushdown=1360137892386~1; _tr_id.7e143e24=fe24f15e3430d2b5.1360137893.2.1360140578.1360138444; WT_FPC=id=63.170.64.2-3030061584.30264971:lv=1360173405885:ss=1360166693608; __utma=108768797.264395526.1360136487.1360136487.1360136487.1; __utmb=108768797.101.10.1360136487; __utmc=108768797; __utmz=108768797.1360136487.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); rsi_segs=I07714_10383|I07714_10173|I07714_10267|I07714_10272|I07714_10445|I07714_10469|I07714_10246|I07714_10539|I07714_10540|I07714_0; _wt.mode-632897=WT3UojW6Md8o8s~; __csgeo=deg.10567_deg5.457_deg10.120_cc.US; tns=dataSource=cookie; info=edition=US
+Via: 1.0 moovweb
+

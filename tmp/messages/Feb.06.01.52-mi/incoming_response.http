@@ -1,0 +1,1193 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 09:52:12 GMT
+Server: Apache
+Last-Modified: Mon, 17 Dec 2012 20:55:05 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=7200
+Expires: Wed, 06 Feb 2013 11:52:12 GMT
+Content-Length: 4474
+Connection: close
+Content-Type: text/css
+
+body {
+	background-color: #484848;
+}
+
+.reutersTV {
+	/*background-color: #343434;*/
+	background: #484848 url("/resources_v2/images/bg_grad_tv.gif") top left scroll repeat-x;
+	padding: 0px 2px;
+}
+
+.reutersTV .grid2 { width: 160px; margin: 3px 0 0 10px; }
+.reutersTV .grid10 { width: 770px; overflow: hidden; margin: 1px 0 0 10px; }
+
+.reutersTV .columnLeft {
+	margin-right: 10px;
+}
+
+#reuters-tv-header {
+	height: 66px;
+}
+
+#reuters-tv-header .sectionColumns {
+	display: none;
+}
+
+#reuters-tv-logo {
+	float: left;
+	/*padding-top: 10px;*/
+	background: #484848 url("/resources_v2/images/sprite-rtv.gif") -127px -175px no-repeat;
+	width: 190px; 
+	height: 31px;
+}
+
+.reutersTVH h2, #reuters-tv-htext {
+	font-weight: normal;
+	font-size: 12px;
+	color: #CDCDCD;
+	text-transform: capitalize;
+	padding-top: 6px;
+	margin-top: 0;
+	clear: left;
+}
+
+.reutersTVH a:hover  {text-decoration: none;}
+
+.reutersTV .channelNav {
+	margin: 10px 0px;
+}
+.reutersTVH {
+	margin-top: 10px;
+	display: block;
+	height: 48px;
+	}
+
+.mainLinkTV {
+	margin: 10px 0px;
+	color: #ffffff;
+	font-size: 11px;
+	width: 158px;
+	height: 24px;
+	float: left;
+	display: block;
+}
+
+.tv-home-icon{
+	background: #484848 url("/resources_v2/images/sprite-rtv.gif") -127px -141px repeat-x;
+	width: 26px; height: 24px;
+	display: inline;
+	float: left;
+}
+
+.mainLinkTV .tv-text {
+	background: #484848 url("/resources_v2/images/reuters-tv-home-bg.gif") top left scroll repeat-x;
+	height: 24px;
+	width: 132px;
+	display: inline;
+	float: left;
+}
+
+.mainLinkTV a .tv-text {
+	text-decoration: none;
+}
+
+.mainLinkTV a:hover .tv-text, .mainLinkTV a:hover .tv-text .tv-link-text {
+	color:#BDBDBD; 
+	text-decoration: none;
+}
+
+.mainLinkTV .tv-text .tv-link-text {
+	padding: 5px 6px;
+	display: block;
+}
+.mainLinkTV .tv-text .tv-link-text:hover {color:#BDBDBD; text-decoration: none;}
+.mainLinkTV a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.mainLinkTV a img {
+	float: left;
+}
+
+.channelHeader {
+	float: left;
+	display: inline;
+	width: 152px;
+	background: url("/resources_v2/images/reuters-tv-channel-header-bg.gif") repeat-x;
+	border-bottom: 1px solid #2F2F2F;
+	color: #464646;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 6px 0px 3px 6px;
+}
+
+ul.channelsTV {
+	float: left;
+	width: 158px;
+	margin: 0 0 10px 0;
+}
+
+.channelsTV li {
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #2F2F2F;
+	background: #464646 url("/resources_v2/images/reuters-tv-nav-bg.gif") repeat-x;
+	height: 28px;
+}
+
+.channelsTV li a {
+	float: left;
+	display: inline;
+	color: #ffffff;
+	font-size: 12px;
+	line-height: 1.2;
+	padding: 6px 8px 0 8px;
+}
+.channelsTV li a:hover {text-decoration: none;color:#bdbdbd;}
+
+
+.channelsTV li.current a {
+	color: #ff9000;
+	font-weight: bold;
+}
+
+#rtvHeadlines {
+	width: 378px;
+	float: left;
+	margin: 5px 0 0 0;
+	background: #2c2c2c;
+	min-height: 303px;
+}
+#rtvHeadlines .module {
+	margin: 0;
+	padding: 0 0 10px;
+}
+
+#rtvHeadlines .moduleBody {
+	width: 320px;
+}
+
+#rtvHeadlines .moduleHeader {
+	background: #000000;
+	margin: 0px !important;
+}
+
+#rtvHeadlines .moduleHeader h3 {
+	color: #ffffff;
+	text-transform: capitalize;
+	float: left;
+	padding: 0px 10px;
+	margin: 0px;
+}
+
+#rtvHeadlines .moduleHeader h3 a {
+	color: #ffffff;
+}
+
+#rtvHeadlines ul {
+	margin: 2px 6px;
+}
+
+#rtvHeadlines ul li {
+	background: none;
+	margin: 0px 8px;
+}
+
+#rtvHeadlines ul li a, #rtvHeadlines .moreLink a {
+	color: #ffffff;
+}
+
+#rtvHeadlines ul li .video {
+	display: none;
+}
+
+#rtvHeadlines .contributor {
+	text-transform: capitalize;
+	color: #cccccc;
+}
+
+#rtvHeadlines .moreLink {
+	color: #ffffff;
+	margin: 2px 14px 8px;
+	display: inline;
+}
+
+#rtvHeadlines .timestamp {
+	display: block;
+}
+
+.videoList {
+	/*width: 790px;*/
+	display: block;
+	clear: both;
+}
+
+.videoList .photo {
+	margin: 4px 0px;
+	width: 378px;
+	height: 214px;
+	background-color: #000000;
+	overflow: hidden;
+}
+
+.mediaList.videoList.size140 .photo {
+	height: 80px;
+	width: 140px;
+}
+
+#rtvAdvertisement {
+	float: right;
+	display: inline;
+	width: 380px;
+	background: #333;
+	text-align: center;
+	padding: 25px 0;
+	margin: 5px 0 0 0;
+}
+#rtvAdvertisement .ad, #rtv-companion .ad { float: left; margin: 0 40px; display: inline; }
+
+
+.thumbnailLeft {
+	float: left;
+}
+
+.thumbnailRight {
+	float: right;
+}
+
+.showIcon {
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	height: 34px;
+	width: 34px;
+}
+
+#icon-rtv, #icon-, #icon-0 {
+	background: #666;
+}
+
+#icon-tech-tonic, #icon-117773, #icon-117779 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1397px; width: 34px; height: 34px;
+}
+
+#icon-money-clip, #icon-117774, #icon-117782 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1441px; width: 34px; height: 34px;
+}
+
+#icon-reuters-investigates, #icon-117777, #icon-117778 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1485px; width: 34px; height: 34px;
+}
+
+#icon-decoder, #icon-117780, #icon-117772 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1529px; width: 34px; height: 34px;
+}
+
+#icon-the-exchange, #icon-117785, #icon-117784 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1573px; width: 34px; height: 34px;
+}
+
+#icon-felix-tv, #icon-117757, #icon-117756 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1617px; width: 34px; height: 34px;
+}
+
+#icon-the-freeland-file, #icon-4300, #icon-4301, #icon-117853, #icon-117854 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1661px; width: 34px; height: 34px;
+}
+
+#icon-johnstons-tax-cut, #icon-117776, #icon-117783 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1705px; width: 34px; height: 34px;
+}
+
+#icon-evans, #icon-117775, #icon-117781 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1749px; width: 34px; height: 34px;
+}
+
+#icon-breakingviews, #icon-117766, #icon-117765 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1793px; width: 34px; height: 34px;
+}
+
+#showInfo .photo {
+	float: left;
+	display: inline;
+	width: 117px;
+	height: 117px;
+	margin: 12px 20px 12px 12px;
+}
+
+#icon-lg-rtv {
+	background: #666;
+}
+
+#icon-lg-tech-tonic {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 0; width: 117px; height: 117px;
+}
+
+#icon-lg-money-clip {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -127px; width: 117px; height: 117px;
+}
+
+#icon-lg-reuters-investigates {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -254px; width: 117px; height: 117px;
+}
+
+#icon-lg-decoder {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -381px; width: 117px; height: 117px;
+}
+
+#icon-lg-the-exchange {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -508px; width: 117px; height: 117px;
+}
+
+#icon-lg-felix-tv {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -635px; width: 117px; height: 117px;
+}
+
+#icon-lg-the-freeland-file {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -762px; width: 117px; height: 117px;
+}
+
+#icon-lg-johnstons-tax-cut {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -889px; width: 117px; height: 117px;
+}
+
+#icon-lg-evans {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1016px; width: 117px; height: 117px;
+}
+
+#icon-lg-breakingviews {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1143px; width: 117px; height: 117px;
+}
+
+#icon-lg-investing201 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -341px; width: 117px; height: 117px;
+}
+
+#icon-lg-global-thinkers, #icon-lg-rtv-topics {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1270px; width: 117px; height: 117px;
+}
+
+#icon-the-trail, #icon-117850, #icon-117848 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px 0; width: 34px; height: 34px;
+}
+	 
+#icon-fast-forward, #icon-117851, #icon-117847 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -241px; width: 34px; height: 34px;
+}
+
+#icon-mediabite, #icon-117844, #icon-117845 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1920px; width: 34px; height: 34px; 
+}
+
+#icon-roughcuts, #icon-117849, #icon-117846 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1964px; width: 34px; height: 34px; 
+}
+
+#icon-investing201, #icon-118058, #icon-118059 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -538px; width: 34px; height: 34px; 
+}
+
+#icon-impactplayers, #icon-118066, #icon-118067 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -823px; width: 34px; height: 34px; 
+}
+
+#icon-take-120, #icon-118068 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px 0; width: 34px; height: 34px;
+}
+
+#icon-moving-pictures, #icon-118069, #icon-118070 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -1362px; width: 34px; height: 34px;
+}
+
+#icon-moments-innovation {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -709px; width: 34px; height: 34px;
+}
+
+#icon-personal-finance {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1876px; width: 34px; height: 34px; 
+}
+
+#icon-lg-the-trail {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left; 
+	background-position: -127px -1469px; width: 117px; height: 117px;
+}
+	
+#icon-lg-fast-forward {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -44px; width: 117px; height: 117px;
+}
+
+#icon-lg-mediabite {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1215px; width: 117px; height: 117px;
+}
+
+#icon-lg-roughcuts {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1342px; width: 117px; height: 117px;
+}
+	 
+#icon-lg-personal-finance {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -127px -1088px; width: 117px; height: 117px;
+}
+
+#icon-lg-moments-innovation {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -582px; width: 117px; height: 117px;
+}
+
+#icon-lg-impactplayers {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -867px; width: 117px; height: 117px;
+}
+
+#icon-lg-take-120 {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: 0 -1881px; width: 117px; height: 117px;
+}
+
+#icon-lg-moving-pictures {
+	background: url(/resources_v2/images/sprite-rtv.gif) no-repeat top left;
+	background-position: -326px -1235px; width: 117px; height: 117px;
+}
+
+.showName {
+	font-size: 11px;
+	font-weight: bold;
+	color: #ff9101;
+	padding: 10px 8px 0px 50px;
+}
+
+.tvStory {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF9101;
+	padding: 6px 6px 0px 48px;
+/*
+	width: 320px;
+	height: 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+*/
+
+}
+
+.topicName {
+	font-size: 11px;
+	font-weight: bold;
+	color: #ff9101;
+	padding: 10px 0px 0px 10px;
+}
+
+.topicStory {
+	font-size: 12px;
+	color: #FFF;
+	padding: 2px 0px 0px 10px;
+}
+
+.tvShowNav {
+	clear: both;
+	background-color: #232323;
+}
+
+/*.tvShowNav #rtv-controls {
+	background-color: #232323;
+	height: 100%;
+}*/
+
+.tvShowNav .showPages {
+	color: #ffffff;
+	display: block;
+	text-align: center;
+}
+
+.tvShowNav .pageNavigation {
+	background-color: #232323;
+
+}
+
+.tvInfo {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	/*background-color: #0f0f0f;*/
+	background: url("/resources_v2/images/bg_tv_info.png") repeat-x;
+	width: 100%;
+	height: 50px;
+}
+
+.videoList a:hover {color:#BDBDBD;}
+
+.reutersTV #txtFrame {
+	width: 378px;
+}
+
+.reutersTV #txtFrame h1, .reutersTV #txtFrame h2 {
+	color: #ffffff;
+}
+
+.reutersTV #txtFrame .episodeLength {
+	font-size: 16px;
+}
+
+.reutersTV #txtFrame p {
+	color: #ffffff;
+}
+
+.reutersTV #txtFrame .videoShareTools {
+	display: inline;
+}
+
+.reutersTV #txtFrame ul {
+	float: left;
+}
+
+.reutersTV #txtFrame ul li {
+	display: inline-block;
+	float: left;
+}
+
+
+#moreShowVideos {
+	clear: left;
+	color: #ffffff;
+}
+
+#moreShowVideos .moduleheader h3 {
+	margin: 2px 0px;
+}
+
+#moreShowVideos .moduleBody ul li {
+	background: none;
+}
+
+#moreShowVideos .info, #moreShowVideos .info a, #moreShowVideos .timestamp {
+	color: #ffffff;
+	font-weight: normal;
+}
+
+.tvShareIntro {
+	color: #ffffff;
+	font-size: 11px;
+	font-weight: bold;
+}
+/********************/
+/* Video Pagination */
+/********************/
+
+.tvShowNav .pageNavigation ul li.previous a, .tvShowNav .pageNavigation ul li.next a {
+	border: none !important;
+	text-decoration: none;
+}
+
+.tvShowNav .pageNavigation b, .tvShowNav .pageNavigation ul li.current {
+	background-color: #232323;
+	border: none !important;
+	border-left: 1px solid #ffffff !important;
+	padding: 0px 6px 0px 8px !important;
+	text-indent: 4px;
+}
+#content .tvShowNav .pageNavigation ul li.current {color:#999; font-size:12px;}
+
+.tvShowNav .pageNavigation ul li a {
+	background-color: #232323 !important;
+	border: none !important;
+	border-left: 1px solid #ffffff !important;
+	color: #ffffff !important;
+	padding: 0px 6px 0px 8px !important;
+	text-indent: 4px;
+	display: inline;
+	float: none !important;
+	font-size: 12px !important;
+}
+
+.tvShowNav .pageNavigation ul li.firstPage a, .tvShowNav .pageNavigation ul li.firstPage {
+	border-left: none !important;
+	padding-left: 0 !important;
+}
+
+.tvShowNav .pageNavigation  {
+	height: 32px;
+}
+
+.tvShowNav .pageNavigation ul  {
+	line-height: 60%;
+	padding: 12px 0 !important;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.tvShowNav .pageNavigation ul li  {
+	background: none !important;
+	display: inline;
+	float: none !important;
+	padding: 8px 0 !important;
+	line-height: 60%;
+	font-size: 12px;
+	margin: 0 !important;
+}
+
+.tvShowNav .pageNavigation ul li.previous a {
+	background: url("/resources_v2/images/sprite-rtv.gif") no-repeat scroll -127px -120px transparent !important;
+}
+
+.tvShowNav .pageNavigation ul li.next a {
+	background: url("/resources_v2/images/sprite-rtv.gif") no-repeat scroll -127px -99px transparent !important;
+}
+
+
+/********************/
+/* Feature Carousel */
+/********************/
+
+#rtv-carousel {
+	margin-top: 12px;
+	float: left;
+	background: #222;
+	position: relative;
+	width: 770px;
+}
+#rtv-carousel .rtv-crsl-panel {
+	display: none;
+}
+.rtv-crsl-panel {
+	float: left;
+	background: #222;
+	margin: 0;
+	padding: 0;
+	width: 770px;
+	overflow: hidden;
+}
+.rtv-crsl-photo {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 378px;
+	height: 214px;
+}
+.rtv-crsl-info {
+	float: left;
+	display: inline;
+	width: 360px;
+	height: 150px;
+	overflow: hidden;
+	margin: 0 10px 0 20px;
+	padding: 15px 0 0 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	background: #222;
+}
+.rtv-crsl-info h2 {
+	font-size: 30px;
+	font-weight: normal;
+	margin: 0 0 5px 0;
+	padding: 0;
+	background: #222;
+	line-height: 1.1;
+}
+.rtv-crsl-info h2 a {
+	color: #FFF;
+}
+.rtv-crsl-info p {
+	color: #FFF;
+	line-height: 1.4;
+	font-weight: normal;
+	margin: 0 0 10px 0;
+	background: #222;
+}
+.rtv-crsl-info .rtv-crsl-button {
+	float: left;
+	margin: 0;
+	padding: 5px 10px;
+	background: #FFA300;
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.rtv-crsl-info .rtv-crsl-button a {
+	color: #000;
+}
+#rtv-carousel #rtv-controls {
+	position: absolute;
+	right: 10px;
+	bottom: 20px;
+	width: 360px;
+	height: 30px;
+	background: #393939;
+	overflow: hidden;
+}
+#rtv-controls .rtv-left,
+#rtv-controls .rtv-right {
+	display: block;
+	width: 7px;
+	height: 12px;
+	cursor: pointer;
+	cursor: hand;
+	margin: 8px;
+}
+#rtv-controls .rtv-left {
+	float: left;
+	background: url("/resources_v2/images/sprite-rtv.gif") -127px -120px no-repeat;
+}
+#rtv-controls .rtv-right {
+	float: right;
+	background: url("/resources_v2/images/sprite-rtv.gif") -127px -99px no-repeat;
+}
+#rtv-controls .rtv-status {
+	position: absolute;
+	text-align: center;
+	width: 302px;
+	left: 28px;
+	color: #555;
+	font-size: 36px;
+	line-height: 0.8;
+}
+#rtv-controls .rtv-status span {
+	margin: 0 2px;
+	cursor: pointer;
+	cursor: hand;
+}
+#rtv-controls .rtv-status .active {
+	color: #FFF;
+}
+
+/*******************/
+/* Schedule Module */
+/*******************/
+
+.schedule-item {
+	width: 160px;
+}
+.schedule-item .module,
+.schedule-item .moduleBody {
+	margin: 0;
+	padding: 0;
+}
+.schedule-item .feature {
+	padding: 10px 0;
+	margin: 0;
+	border-bottom: 1px solid #575757;
+}
+.schedule-item h2, .schedule-item h2 a {
+	color: #FF9100;
+	font-size: 12px;
+	margin: 0 0 4px 0;
+}
+.schedule-item .timestamp {
+	color: #FFF;
+	margin: 0 0 4px 0;
+}
+.schedule-item p {
+	font-size: 11px;
+	color: #CCC;
+	padding: 0;
+	margin: 0;
+}
+
+#rtv-schedule-header h2 {
+	float: left;
+	clear: both;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 0;
+	padding: 10px 0;
+	width: 152px;
+	text-transform: uppercase;
+}
+
+#rtv-schedule-header h2 a {
+	color: #FFF;
+}
+
+#rtv-schedule-tabs {
+	float: left;
+	margin: 0;
+}
+
+#rtv-schedule-tabs ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#rtv-schedule-tabs span.hrefClone {color: #FFF;}
+#rtv-schedule-tabs span.hrefClone:hover {text-decoration: none;}
+
+#rtv-schedule-tabs ul li.active {
+	background: #FFF;
+	background-image: none;
+	/*border-top: #FCFCFC;*/
+}
+
+#rtv-schedule-tabs ul li.active span.hrefClone {
+	color: #333;
+}
+#rtv-schedule-tabs ul li span.hrefClone {
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#rtv-schedule-tabs ul li span.hrefClone:hover {color: #BDBDBD;}
+#rtv-schedule-tabs ul li.active span.hrefClone:hover {color: #333;}
+
+/*********************/
+/* Video Player Page */
+/*********************/
+
+#videoPlayerLarge {
+	float: left;
+	margin: 10px 0;
+	width:768px;
+	height:432px;
+	color:#000;
+}
+
+#rtv-video-caption {
+width: 378px;
+}
+
+#rtv-video-caption h1,
+#rtv-video-caption h2 {
+	color: #FFF;
+	font-size: 32px;
+	margin: 0 0 10px 0;
+	padding: 0;
+	line-height: 1.0em;
+}
+
+#rtv-video-caption h1 .episodeLength,
+#rtv-video-caption h2 .episodeLength {
+	font-size: 16px;
+}
+
+#rtv-video-caption p {
+	font-size: 13px;
+	color: #FFF;
+	margin: 0 0 20px 0;
+	padding: 0;
+}
+
+#rtv-share-label {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+	margin: 0 0 10px 0;
+}
+
+ul#rtv-share-tools {
+	float: left;
+	width: 100%;
+	display: block;
+	padding: 0 0 20px 0;
+	border-bottom: 1px solid #575757;
+	margin: 0 0 10px 0;
+}
+
+ul#rtv-share-tools li {
+	float: left;
+	margin: 0 10px 0 0;
+	overflow: hidden;
+}
+
+.twitter-share-button {
+	width: 110px !important;
+}
+
+#rtv-more-from .moduleHeader {
+	background: none;
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+#rtv-more-from .moduleHeader h3 {
+	font-size: 20px;
+	text-transform: none;
+	color: #FFF;
+	padding: 0;
+	margin: 0;
+}
+
+#rtv-more-from .moduleBody {
+	margin: 0;
+}
+
+#rtv-more-from .photo4up {
+	margin: 0;
+	padding: 0;
+}
+
+#rtv-more-from .feature {
+	width: 100%;
+	margin: 0 0 15px 0;
+}
+
+#rtv-more-from .feature .photo {
+	margin: 0 18px 0 0;
+}
+
+#rtv-more-from .feature .photo .videoOverlay {
+	display: none;
+}
+
+#rtv-more-from .feature h2 {
+	float: none;
+	clear: right;
+	width: auto;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#rtv-more-from .feature h2 a {
+	color: #FFF;
+}
+
+#rtv-companion {
+	float: left;
+	background: #2C2C2C;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#rtv-companion #videoAd {
+	float: left;
+	width: 300px;
+	height: 250px;
+	margin: 0 40px;
+	background: #CCC;
+	display: inline; /* for ie6*/
+}
+
+#box-for-rtvbox {
+	margin-bottom: 10px;
+}
+
+.verticalx3 {background-color: #2C2C2C !important;}
+
+#showInfo {
+	float: left;
+	display: inline;
+	background: #222;
+	width: 100%;
+	margin: 12px 0 0 0;
+}
+
+#showInfo h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #FF9101;
+	margin: 10px 10px 5px 10px;
+	padding: 0;
+}
+
+#showInfo p {
+	font-size: 11px;
+	margin: 0 10px 10px 10px;
+	padding: 0;
+	color: #FFF;
+	line-height: 1.4;
+}
+
+#showInfo .buttons {
+	float: left;
+}
+
+#showInfo .button {
+	float: left;
+	display: block;
+	height: 18px;
+	background-color: #333;
+	margin: 5px 10px 8px 0;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFF;
+	padding: 8px 8px 4px 6px;
+	background: url("/resources_v2/images/reuters-tv-icon-bg.gif") repeat-x;
+	background-image: linear-gradient(top, #787878, #5A5A5A);
+	background-image: -o-linear-gradient(top, #787878, #5A5A5A);
+	background-image: -moz-linear-gradient(top, #787878, #5A5A5A);
+	background-image: -webkit-linear-gradient(top, #787878, #5A5A5A);
+	background-image: -ms-linear-gradient(top, #787878, #5A5A5A);
+	/*
+background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0, "#787878"),
+		color-stop(1, "#5A5A5A")
+	);
+*/
+	/*filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#4A4A4A', endColorstr='#404040'); */
+	 /* IE6 & IE7 */
+	/*-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#4A4A4A', endColorstr='#404040')";*/
+	 /* IE8 */
+}
+
+#showInfo .button a, #showInfo .button a:hover {
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+}
+
+#showInfo .icon-twitter {
+	background: url("/resources_v2/images/sprite-rtv.gif") -127px -72px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 26px;
+}
+
+#showInfo .text-twitter, #showInfo .text-blog, #showInfo .text-facebook, #showInfo .text-youtube {
+	display: inline-block;
+	height: 20px;
+
+}
+
+#showInfo .icon-blog {
+	background: url("/resources_v2/images/sprite-rtv.gif") -127px -44px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 22px;
+}
+
+#showInfo .icon-youtube {
+	background: url("/resources_v2/images/sprite-rtv.gif") -326px -313px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 26px;
+}
+
+#showInfo .icon-facebook {
+	background: url("/resources_v2/images/sprite-rtv.gif") -326px -285px no-repeat;
+	display: inline-block;
+	height: 20px;
+	width: 24px;
+}
+
+.follow-tv {
+float: left;
+padding: 4px 0px;
+height: 100%;
+display: inline;
+border-bottom: 1px solid #575757;
+}
+.follow-tv ul.follow-left {
+float: left;
+display: block;
+}
+.follow-tv ul.follow-right{
+float: left;
+display: block;
+}
+.follow-tv li {
+height: 30px;
+width: 80px;
+}
+.follow-tv li a {
+font-size: 11px;
+}
+.follow-tv li a {
+color: #FFFFFF;
+}
+.follow-tv h3 {
+color: #ffffff;
+font-size: 14px;
+}
+
+.follow-tv #follow-twitter {
+background: url("/resources_v2/images/icon_follow_twitter.png") no-repeat scroll transparent;
+}
+.follow-tv #follow-rss {
+background: url("/resources_v2/images/icon_follow_rss.png") no-repeat scroll transparent;
+}
+.follow-tv #follow-youtube {
+background: url("/resources_v2/images/icon_follow_youtube.png") no-repeat scroll transparent;
+}
+.follow-tv #follow-pinterest {
+background: url("/resources_v2/images/icon_follow_pinterest.png") no-repeat scroll transparent;
+}
+
+.follow-tv .follow-name {
+padding: 0px 0px 0px 28px;
+display: inline;
+height: 16px;
+}
+
+#rtv-schedule-tabs ul li {
+	display: block;
+	float: left;
+	width: 28px;
+	/*border-top: 1px solid #575757;*/
+	border-bottom: 1px solid #353535;
+	text-align: center;
+	margin-right: 4px;
+	padding: 3px 0;
+	cursor: pointer;
+	cursor: hand;
+	/*background: #4A4A4A;*/
+	background: url("/resources_v2/images/reuters-tv-nav-bg.gif") repeat-x;
+	background-image: linear-gradient(bottom, "#4A4A4A" 0%, "#404040" 100%);
+	background-image: -o-linear-gradient(bottom, "#4A4A4A" 0%, "#404040" 100%);
+	background-image: -moz-linear-gradient(bottom, "#4A4A4A" 0%, "#404040" 100%);
+	background-image: -webkit-linear-gradient(bottom, "#4A4A4A" 0%, "#404040" 100%);
+	background-image: -ms-linear-gradient(bottom, "#4A4A4A" 0%, "#404040" 100%);
+	/*
+background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0, "#4A4A4A"),
+		color-stop(1, "#404040")
+	);
+*/
+	/*
+filter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#4A4A4A', endColorstr='#404040'); */
+ /* IE6 & IE7 */
+	/* -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#4A4A4A', endColorstr='#404040')"; */
+	 /* IE8 */
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+
+}
+#rtv-schedule-tabs ul li:last-child {margin-right: 0;}
+

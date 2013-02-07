@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 09:59:56 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 09:59:08 GMT
+Host: betaus.reuters.com
+Age: 45
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 21
+Connection: close
+Content-Type: text/plain;charset=UTF-8
+
+

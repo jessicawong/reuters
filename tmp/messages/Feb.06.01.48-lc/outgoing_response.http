@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 09:48:50 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 09:47:49 GMT
+Age: 60
+Vary: Accept-Encoding
+Content-Length: 727
+Connection: close
+Content-Type: text/html;charset=UTF-8
+X-Q-S: 200001039000952000005
+X-M-V: 4.1.215
+X-S-V: /reuters2 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if !IE]> This has been served from cache <![endif]--><!--[if !IE]> Request served from apache server: S264630NJ2XSF43 <![endif]--><!--[if !IE]> Cached on Wed, 06 Feb 2013 09:47:49 GMT and will expire on Wed, 06 Feb 2013 09:52:49 GMT <![endif]--><!--[if !IE]> token: bff8090c-9e4e-460e-9c1a-752b401ed975 <![endif]--><!--[if !IE]> CSTAT-UUID: bc72e462-1d0a-417c-902d-953cd1e8b9bf <![endif]--><html><body><p>Reuters.namespace("info");
+	Reuters.info.edition = 'BETAUS';
+	Reuters.info.gigyaAPIKey = '2_5UlTf5KVL1qEVXO0ZoNYPoxhzCHYvubplalCtItzf8EuG3Tn6WKHR0hVysesYMdj';
+	Reuters.utils.setInfoCookie();
+</p></body></html>

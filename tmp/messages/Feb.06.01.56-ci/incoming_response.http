@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 09:56:46 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 09:52:20 GMT
+Age: 266
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 245
+Connection: close
+Content-Type: text/html;charset=UTF-8
+
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF37 <![endif]-->
+<!--[if !IE]> Cached on Wed, 06 Feb 2013 09:52:20 GMT and will expire on Wed, 06 Feb 2013 09:57:20 GMT <![endif]-->
+<!--[if !IE]> token: 464b37fb-f506-441d-a3e6-f854a9c3ed11 <![endif]-->
+<!--[if !IE]> CSTAT-UUID: 0d5f4436-c68a-41f6-917c-47e65897cc2b <![endif]-->
+

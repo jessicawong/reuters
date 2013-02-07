@@ -1,0 +1,1440 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 10:03:27 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 10:02:31 GMT
+Last-UpdatedL: Wed, 06 Feb 2013 09:59:18 GMT
+Host: betaus.reuters.com
+Age: 50
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 23483
+Connection: close
+Content-Type: text/html;charset=UTF-8
+
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF31 <![endif]-->
+<!--[if !IE]> Cached on Wed, 06 Feb 2013 10:02:37 GMT and will expire on Wed, 06 Feb 2013 10:07:31 GMT <![endif]-->
+<!--[if !IE]> token: 732cd2a3-13aa-4ba9-b05e-da5a48d37d5c <![endif]-->
+<!--[if !IE]> Prepopulated from the cache-server <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF48/ <![endif]-->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<script type="text/javascript" src="//nexus.ensighten.com/reuters/Bootstrap.js"></script>
+
+<title>Business & Financial News, Breaking US & International News | Reuters.com</title>
+		<meta id="MetaDescription" name="description" content="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, and more in video and pictures."></meta>
+		<meta id="MetaKeywords" name="keywords" content="Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters">
+	<link rel="shortcut icon" href="http://s3.reutersmedia.net/resources_v2/images/favicon.ico" />
+  <link rel="icon" href="http://s3.reutersmedia.net/resources_v2/images/favicon.ico" />
+
+	<link href="http://s3.reutersmedia.net/resources_v2/css/rcom-main.css" rel="stylesheet" />
+<style type="text/css">
+ #homepageSponsorBand .sectionContent .ad
+	{
+		margin:0px;
+                text-align:center;
+                float:none;
+                display:block;
+                width:970px;
+	}
+</style><script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/yahoo/yahoo-min.js" type="text/javascript"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/event/event-min.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/dom/dom-min.js" type="text/javascript"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/animation/animation-min.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/connection/connection-min.js" type="text/javascript"></script>
+	<script src="http://s2.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/cookie/cookie-min.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-1.6.1.min.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/rcom-main.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-agent.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/extensions.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-ads.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-wt-mlt.js"></script>
+	<script src="http://s2.reutersmedia.net/resources_v2/js/rcom-pid.js"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/rcom-geoIP.js"></script>
+<script type="text/javascript" src="http://s4.reutersmedia.net/resources_v2/js/rcom-tns.js"></script>
+<link href="/resources_v2/css/rcom-homepage-rework.css?view=439-1" rel="stylesheet" />
+<script type="text/javascript" src="/resources_v2/js/rcom-homepage-rework.js"></script>
+<script type="text/javascript" src="/resources_v2/js/widget-marketstrip-polite.js?view=241"></script><script type="text/javascript" type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/refresh.js" ></script>
+	<noscript><meta http-equiv="refresh" content="300;url=/home"></noscript>
+
+
+</head>
+<body>
+
+<script>
+var revop_wtfpc = YAHOO.util.Cookie.get("WT_FPC"); // read webtrends cookie
+if (revop_wtfpc==null) {
+	var u = ";U=NC;";
+	}
+else
+	{
+	var u = ";U="+revop_wtfpc+";";
+	}
+</script> <!-- see if snrd cookie was set by trigger page -->
+<script>
+var srnd = YAHOO.util.Cookie.get("srnd_keyword");
+var srnd_sequence = YAHOO.util.Cookie.get("srnd_sequence");
+if (srnd!=null && srnd!="")
+  {
+         var srnd="srnd="+srnd+";srnd_sequence="+srnd_sequence+";";
+  }
+
+</script>
+
+
+<link href="http://s4.reutersmedia.net/resources_v2/css/rcom-masthead-nav.css" rel="stylesheet" />
+<script src="/assets/info" type="text/javascript"></script>
+<script type="text/javascript">
+var currentUsedEdition = 'BETAUS';
+</script>
+
+<div id="header">
+<a name="top" id="top" style="position: absolute;overflow:hidden;">&nbsp;</a>
+	<div id="marketsHeader"></div>
+	<div id="masthead">
+		<div class="mast-strip">
+		<div id="logo"><a id="logoLink" href="/"><img src="/resources_v2/images/masthead-logo.gif" alt="Reuters" border="0" /></a></div>
+
+	<div id="editionsTop" class="panel editions">
+			<ul id="editionSwitchTop" class="editionSwitch">
+				<li>
+					<div class="currentEditionTitle">Edition:</div>
+					<div class="currentEdition">U.S.</div>
+					<div class="editionArrow"></div>
+					<ul>
+						<li><a href="http://ara.reuters.com">Arabic</a></li>
+						<li><a href="http://ar.reuters.com">Argentina</a></li>
+						<li><a href="http://br.reuters.com">Brazil</a></li>
+						<li><a href="http://ca.reuters.com">Canada</a></li>
+						<li><a href="http://cn.reuters.com">China</a></li>
+						<li><a href="http://fr.reuters.com">France</a></li>
+						<li><a href="http://de.reuters.com">Germany</a></li>
+<li><a href="http://in.reuters.com">India</a></li>
+<li><a href="http://it.reuters.com">Italy</a></li>
+						<li><a href="http://jp.reuters.com">Japan</a></li>
+						<li><a href="http://lta.reuters.com">Latin America</a></li>
+						<li><a href="http://mx.reuters.com">Mexico</a></li>
+				    <li><a href="http://ru.reuters.com">Russia</a></li>
+						<li><a href="http://es.reuters.com">Spain</a></li>
+<li><a href="http://uk.reuters.com">United Kingdom</a></li>
+</ul>
+				</li>
+			</ul>
+		</div>
+		<div id="search" class="panel">
+		<div id="searchbox">
+			<form id="searchForm" name="searchbox" method="get" action="/search" autocomplete="off">
+				<input id="searchfield" name="blob" type="text" value="Search News & Quotes" size="30"
+					onfocus="var strSearchValue = document.forms['searchbox'].blob.value;if(strSearchValue.trim() == 'Search News & Quotes'){document.forms['searchbox'].blob.value = '';}"
+					onblur="var strSearchValue = document.forms['searchbox'].blob.value;if(strSearchValue.trim() == ''){document.forms['searchbox'].blob.value = 'Search News & Quotes';}"
+					onkeypress="if(event.keyCode == 13) {document.forms['searchbox'].submit();return false;}" maxlength="128"
+				/>
+				<input type="submit" id="searchbuttonNav" onclick="return Reuters.utils.submitSearch();" value="">
+			</form>
+		</div>
+	</div>
+		<div id="utilities" class="panel"></div>
+	</div>
+	</div>
+
+	<div id="dd-navigation">
+    	<div id="nav-strip">
+            <ul>
+                <li class="nav-item active no-subnav" id="nav-item_1"><a href="/home" ><span class="primary-link">Home</span></a>
+                    </li>
+                <li class="nav-item" id="nav-item_2"><a href="/finance" ><span class="primary-link">Business</span></a>
+                    <div class="subnav double" id="subnav_2">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance" target="_top">Business Home</a></li>
+                            <li class=""><a href="/finance/economy" target="_top">Economy</a></li>
+                            <li class=""><a href="/news/technology" target="_top">Technology</a></li>
+                            <li class=""><a href="/news/media" target="_top">Media</a></li>
+                            <li class=""><a href="/finance/smallBusiness" target="_top">Small Business</a></li>
+                            <li class=""><a href="http://newsandinsight.thomsonreuters.com/Legal/" target="_top">Legal</a></li>
+                            <li class="lastChild "><a href="/finance/deals" target="_top">Deals</a></li>
+                            </ul><ul class="two"><li class=""><a href="/finance/markets/earnings" target="_top">Earnings</a></li>
+                            <li class=""><a href="/social" target="_top">Social Pulse</a></li>
+                            <li class=""><a href="/news/video?videoChannel=5" target="_top">Business Video</a></li>
+                            <li class=""><a href="/news/video/reuters-tv/the-freeland-file" target="_top">The Freeland File</a></li>
+                            <li class=""><a href="/subjects/aerospace-and-defense" target="_top">Aerospace & Defense</a></li>
+                            <li class=""><a href="/subjects/investing-simplified" target="_top">Investing & Taxes Simplified</a></li>
+                            <li class="lastChild "><a href="/finance/summits" target="_top">Summits</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_3"><a href="/finance/markets" ><span class="primary-link">Markets</span></a>
+                    <div class="subnav double" id="subnav_3">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance/markets" target="_top">Markets Home</a></li>
+                            <li class=""><a href="/finance/markets/us" target="_top">U.S. Markets</a></li>
+                            <li class=""><a href="/finance/markets/europe" target="_top">European Markets</a></li>
+                            <li class=""><a href="/finance/markets/asia" target="_top">Asian Markets</a></li>
+                            <li class=""><a href="/finance/global-market-data" target="_top">Global Market Data</a></li>
+                            <li class=""><a href="/finance/markets/indices" target="_top">Indices</a></li>
+                            <li class=""><a href="/finance/deals/mergers" target="_top">M&A</a></li>
+                            <li class="lastChild "><a href="/finance/stocks" target="_top">Stocks</a></li>
+                            </ul><ul class="two"><li class=""><a href="/finance/bonds" target="_top">Bonds</a></li>
+                            <li class=""><a href="/finance/currencies" target="_top">Currencies</a></li>
+                            <li class=""><a href="/finance/commodities" target="_top">Commodities</a></li>
+                            <li class=""><a href="/finance/futures" target="_top">Futures</a></li>
+                            <li class=""><a href="/finance/funds" target="_top">Funds</a></li>
+                            <li class=""><a href="http://www.pehub.com/" target="_top">peHUB</a></li>
+                            <li class="lastChild "><a href="/finance/markets/dividends" target="_top">Dividends</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_4"><a href="/news/world" ><span class="primary-link">World</span></a>
+                    <div class="subnav double" id="subnav_4">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/world" target="_top">World Home</a></li>
+                            <li class=""><a href="/news/us" target="_top">U.S.</a></li>
+                            <li class=""><a href="/places/brazil" target="_top">Brazil</a></li>
+                            <li class=""><a href="/places/china" target="_top">China</a></li>
+                            <li class=""><a href="/subjects/euro-zone" target="_top">Euro Zone</a></li>
+                            <li class=""><a href="/places/japan" target="_top">Japan</a></li>
+                            <li class="lastChild "><a href="/places/africa" target="_top">Africa</a></li>
+                            </ul><ul class="two"><li class=""><a href="/places/mexico" target="_top">Mexico</a></li>
+                            <li class=""><a href="/places/russia" target="_top">Russia</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/india" target="_top">India Insight</a></li>
+                            <li class=""><a href="/news/video?videoChannel=117760" target="_top">World Video</a></li>
+                            <li class=""><a href="/news/video/reuters-tv/reuters-investigates" target="_top">Reuters Investigates</a></li>
+                            <li class="lastChild "><a href="/news/video/reuters-tv/decoder" target="_top">Decoder</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_5"><a href="/politics" ><span class="primary-link">Politics</span></a>
+                    <div class="subnav " id="subnav_5">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/politics" target="_top">Politics Home</a></li>
+                            <li class=""><a href="/subjects/supreme-court" target="_top">Supreme Court</a></li>
+                            <li class="lastChild "><a href="/news/video?videoChannel=1003" target="_top">Politics Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_6"><a href="/news/technology" ><span class="primary-link">Tech</span></a>
+                    <div class="subnav " id="subnav_6">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/technology" target="_top">Technology Home</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/mediafile" target="_top">MediaFile</a></li>
+                            <li class=""><a href="/news/science" target="_top">Science</a></li>
+                            <li class=""><a href="/news/video?videoChannel=6" target="_top">Tech Video</a></li>
+                            <li class=""><a href="/news/video/reuters-tv/tech-tonic" target="_top">Tech Tonic</a></li>
+                            <li class="lastChild "><a href="/social" target="_top">Social Pulse</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_7"><a href="http://blogs.reuters.com/us/" ><span class="primary-link">Opinion</span></a>
+                    <div class="subnav double" id="subnav_7">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="http://blogs.reuters.com/us/" target="_top">Opinion Home</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/chrystia-freeland/" target="_top">Chrystia Freeland</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/john-lloyd" target="_top">John Lloyd</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/felix-salmon" target="_top">Felix Salmon</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/jackshafer" target="_top">Jack Shafer</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/david-rohde" target="_top">David Rohde</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/nader-mousavizadeh/" target="_top">Nader Mousavizadeh</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/lucy-marcus/" target="_top">Lucy P. Marcus</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/nicholas-wapshott/" target="_top">Nicholas Wapshott</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/bethany-mclean/" target="_top">Bethany McLean</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/anatole-kaletsky" target="_top">Anatole Kaletsky</a></li>
+                            </ul><ul class="two"><li class=""><a href="http://blogs.reuters.com/edgy-optimist/" target="_top">Zachary Karabell</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/edward-hadas/" target="_top">Edward Hadas</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/hugo-dixon/" target="_top">Hugo Dixon</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/ian-bremmer/" target="_top">Ian Bremmer</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/lawrencesummers/" target="_top">Lawrence Summers</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/susanglasser/" target="_top">Susan Glasser</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/great-debate" target="_top">The Great Debate</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/reihan-salam/" target="_top">Reihan Salam</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/thinking-global/" target="_top">Frederick Kempe</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/mark-leonard" target="_top">Mark Leonard</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/stories-id-like-to-see/" target="_top">Steven Brill</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_8"><a href="http://blogs.reuters.com/breakingviews/" ><span class="primary-link">Breakingviews</span></a>
+                    <div class="subnav " id="subnav_8">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/equities/" target="_top">Equities</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/credit" target="_top">Credit</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/private-equity/" target="_top">Private Equity</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/m-a/" target="_top">M&A</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/macro-markets/" target="_top">Macro & Markets</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/politics/" target="_top">Politics</a></li>
+                            <li class="lastChild "><a href="/news/video/reuters-tv/breakingviews" target="_top">Breakingviews Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_9"><a href="/finance/personal-finance" ><span class="primary-link">Money</span></a>
+                    <div class="subnav double" id="subnav_9">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance/personal-finance" target="_top">Money Home</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/taxbreak/" target="_top">Tax Break</a></li>
+                            <li class=""><a href="/subjects/2012-lipper-best-mutual-fund-awards" target="_top">Lipper Awards 2012</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/globalinvesting" target="_top">Global Investing</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/muniland" target="_top">MuniLand</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/unstructuredfinance/" target="_top">Unstructured Finance</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/linda-stern/ " target="_top">Linda Stern</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/mark-miller/" target="_top">Mark Miller</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/john-wasik/" target="_top">John Wasik</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/jim-saft/" target="_top">James Saft</a></li>
+                            </ul><ul class="two"><li class=""><a href="https://commerce.us.reuters.com/purchase/default.do" target="_top">Analyst Research</a></li>
+                            <li class=""><a href="http://alerts.us.reuters.com/US/company.asp" target="_top">Alerts</a></li>
+                            <li class=""><a href="http://portfolio.us.reuters.com/US/watchlist/create.asp" target="_top">Watchlist</a></li>
+                            <li class=""><a href="http://portfolio.us.reuters.com/US/public/index.asp" target="_top">Portfolio</a></li>
+                            <li class=""><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" target="_top">Stock Screener</a></li>
+                            <li class=""><a href="http://funds.us.reuters.com/US/screener/screener.asp" target="_top">Fund Screener</a></li>
+                            <li class=""><a href="/news/video?videoChannel=303" target="_top">Personal Finance Video</a></li>
+                            <li class=""><a href="/news/video/reuters-tv/money-clip" target="_top">Money Clip</a></li>
+                            <li class="lastChild "><a href="/news/video/reuters-tv/investing-201" target="_top">Investing 201</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_10"><a href="/news/lifestyle" ><span class="primary-link">Life</span></a>
+                    <div class="subnav " id="subnav_10">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/health" target="_top">Health</a></li>
+                            <li class=""><a href="/news/sports" target="_top">Sports</a></li>
+                            <li class=""><a href="/news/entertainment/arts" target="_top">Arts</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/faithworld" target="_top">Faithworld</a></li>
+                            <li class=""><a href="/finance/business-travel" target="_top">Business Traveler</a></li>
+                            <li class=""><a href="/news/entertainment" target="_top">Entertainment</a></li>
+                            <li class=""><a href="/news/oddlyEnough" target="_top">Oddly Enough</a></li>
+                            <li class="lastChild "><a href="/news/video?videoChannel=1004" target="_top">Lifestyle Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_11"><a href="/news/pictures" ><span class="primary-link">Pictures</span></a>
+                    <div class="subnav " id="subnav_11">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/pictures" target="_top">Pictures Home</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/photo" target="_top">Reuters Photographers</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/fullfocus" target="_top">Full Focus</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_12"><a href="/news/video/reuters-tv" ><span class="primary-link">Video</span></a>
+                    <div class="subnav " id="subnav_12">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/video/reuters-tv" target="_top">Reuters TV</a></li>
+                            <li class="lastChild "><a href="/news/video" target="_top">Reuters News</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                </ul>
+       	</div>
+    </div>
+</div>
+<script src="http://s2.reutersmedia.net/resources_v2/js/libraries/jquery.bgiframe.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-nav.js" type="text/javascript"></script>
+
+<div id="content"><div class="section bleeding" id="breakingNewsBand">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div id="breakingNewsContent"></div>
+<script type="text/javascript">
+Reuters.utils.replaceContent("breakingNewsContent", "/assets/breakingNews", null, null);
+</script>
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+	var freqCap_pushdown = new adDisplayManager('freqCap_pushdown','pushdown',null,(1 * 1),(1 * 0),(1 * 0));
+    freqCap_pushdown.run();
+</script>
+
+</div>
+</div>
+<div class="section bleeding" id="homepageSponsorBand">
+<div class="sectionContent">
+
+
+</div></div>
+<div class="section bleeding" id="pushdownContainer">
+<div class="sectionContent">
+<div class="columnCenter"><style>
+#pushdownContainer .sectionContent {
+width: 970px;
+margin: 0 auto;
+padding: 0 0 10px 0;
+}
+
+#pushdownContainer .sectionContent .ad {
+margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 10;
+}
+
+/*
+#homepageSponsorBand {
+display:none; 
+}
+*/
+</style></div><div id="freqCap_pushdown" style="display:none;">
+	<div id="pushdownContainer" class="pushdownContainer">
+    	<div class="ad">
+
+		<script language="javascript" type="text/javascript">
+			// krux kseg and kuid from krux header tag
+			//var kruxvars = (typeof(kseg)=='undefined'?'':kseg) + (typeof(kuid)=='undefined'?'':kuid);
+		  var adsrc = 'us.reuters/home;' + 'type=pushdown;sz=1x1;taga=aaaaaaaaa;' + '';
+		  adsrc = TR.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		  adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ( typeof(freqCap_pushdown) == 'undefined' || freqCap_pushdown == null ) {
+		      try { console.debug("frequency manager: %s is undefined, could be channel include/exclude or scheduling", 'freqCap_pushdown') } catch(e) {};
+		  }
+		  if ( typeof(freqCap_pushdown) != 'undefined' &&
+		       ((typeof(freqCap_pushdown.isAdNeeded) != 'undefined' && freqCap_pushdown.isAdNeeded()) ||
+		        (typeof(freqCap_pushdown.isDefaultAdNeeded) != 'undefined' && freqCap_pushdown.isDefaultAdNeeded()))) {
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('pushdown') == false) &&
+		      (typeof (hideAd_14672169) == 'undefined' || hideAd_14672169 == false)) {
+            TR.writeDFPURL("http://ad.doubleclick.net/adj/" + adsrc);
+		  }
+
+		  
+		  }
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/jump/us.reuters/home;type=pushdown;sz=1x1;taga=aaaaaaaaa;ord=1170?" target="_blank">
+		      <img src="http://ad.doubleclick.net/ad/us.reuters/home;type=pushdown;sz=1x1;taga=aaaaaaaaa;ord=1170?" width="1" height="1" border="0" alt="">
+		    </a>
+		</noscript>
+
+		</div>
+
+		</div>
+</div>
+
+<script type="text/javascript">
+	if ( typeof(freqCap_pushdown) != 'undefined' && 
+       ((typeof(freqCap_pushdown.isAdNeeded) != 'undefined' && (freqCap_pushdown.isAdNeeded())) || 
+       (typeof(freqCap_pushdown.isDefaultAdNeeded) != 'undefined' && freqCap_pushdown.isDefaultAdNeeded()))) {
+	    document.getElementById('freqCap_pushdown').style.display = 'block';
+	}
+</script>
+
+
+<div class="linebreak"></div>
+	</div></div>
+<div class="section" id="mainSection">
+	<div class="sectionContent">
+<div id="sectionHeader"></div><div class="sectionColumns">
+
+<div class="column1 gridPanel grid8">
+<span name="trackingEnabledModule" moduleName="Top Stories [S]" moduleId="14713119">
+              <script language="javascript">addImpression("14713119_Top Stories [S]");</script>
+      <div id="news-ticker"></div>
+<script type="text/javascript">Reuters.ticker.init(5);</script>
+
+<div class="linebreak"></div>
+	<div class="section" id="HP-Top-Stories">
+<div class="sectionContent">
+<div class="columnLeft"><div id="topStory" class="gridPanel grid5"><span name="trackingEnabledModule" moduleName="E0207130937_344797"><script language="javascript">addImpression("E0207130937_344797");</script><div class="module"><div class="moduleBody"><div class="topStory"><div class="photo"><a href="/article/2013/02/06/us-rbs-libor-idUSBRE91500B20130206"><img src="http://s4.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_4875934720130206091914.jpg" alt="People walk past a Royal Bank of Scotland (RBS) building in the City of London January 12, 2012.REUTERS/Stefan Wermuth (BRITAIN - Tags: BUSINESS EMPLOYMENT) - RTR2W6UU" title="People walk past a Royal Bank of Scotland (RBS) building in the City of London January 12, 2012.REUTERS/Stefan Wermuth (BRITAIN - Tags: BUSINESS EMPLOYMENT) - RTR2W6UU" border="0" /></a></div><h2><a href="/article/2013/02/06/us-rbs-libor-idUSBRE91500B20130206">RBS faces $630 million fine over Libor: sources</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=matt.scuffham">Matt&nbsp;Scuffham</a></span></div><p>LONDON - Royal Bank of Scotland will be punished for its role in the global interest-rate rigging scandal with fines of around 400 million pounds (around $630 million), sources familiar with the situation said.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/06/us-rbs-libor-idUSBRE91500B20130206">Full&nbsp;Article</a></span>&nbsp;</p><ul><li><a href="/article/2013/02/05/us-barclays-idUSBRE91408O20130205">Barclays ducks Qatar questions, takes $1.6 billion mis-selling hit</a></li><li><a href="/article/2013/02/04/us-britain-banks-idUSBRE91306720130204">UK prepares new law to break up errant banks</a></li><li><a href="/article/2013/02/06/us-montepaschi-derivatives-board-idUSBRE91509Y20130206">Monte Paschi board to reveal extent of derivatives loss</a></li></ul></div></div></div></span></div></div><span name="trackingEnabledModule" moduleName="*Latest Headlines" moduleId="16711622">
+              <script language="javascript">addImpression("16711622_*Latest Headlines");</script>
+      <div class="columnRight"><div id="latestHeadlines" class="gridPanel grid3"><div class="module">
+		
+		<div class="moduleBody">
+		<div class="feature"><h2><a href="/article/2013/02/06/us-virgin-liberty-deal-idUSBRE91501B20130206"  >Malone strikes $15.75 billion Virgin Media deal to take on Murdoch</a>
+<span class="timestamp">4:34am EST</span></h2><p>LONDON  - John Malone's Liberty Global struck a deal on Tuesday to buy British cable group Virgin Media for about $15.75 billion in stock and cash, a move that would put the U.S. billionaire up against old rival Rupert Murdoch.</p>
+	</div><ul>
+		<li><a href="/article/2013/02/06/us-solomons-quake-idUSBRE91500X20130206"  >Tsunami kills at least five in Solomons after big Pacific quake</a>
+<span class="timestamp">3:39am EST</span></li><li><a href="/article/2013/02/06/us-iran-politics-mortazavi-idUSBRE91507Z20130206"  >Ally of Iran's Ahmadinejad freed from prison: official</a>
+<span class="timestamp">2:51am EST</span></li><li><a href="/article/2013/02/06/us-investment-euro-idUSBRE91506U20130206"  >Analysis: Euro overshoot will rekindle bloc-wide tensions</a>
+<span class="timestamp">2:09am EST</span></li><li><a href="/article/2013/02/06/us-tunisia-politics-idUSBRE9150B820130206"  >Tunisian opposition politician shot dead</a>
+<span class="timestamp">4:57am EST</span></li></ul>
+	</div>
+		</div>
+		</div></div><div class="linebreak"></div>
+	</span>
+      </div></div>
+
+
+
+
+<div class="linebreak"></div>
+	</span>
+      <div id="moreSectionNews" class="gridPanel grid8"><span name="trackingEnabledModule" moduleName="E0207130724_344742"><script language="javascript">addImpression("E0207130724_344742");</script><div class="module"><div class="moduleBody"><div class="feature"><div class="photo"><a href="/article/2013/02/06/us-dell-buyout-microsoft-idUSBRE91505R20130206"><img src="http://s2.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_9212410720130206072047.jpg" alt="Michael Dell Chairman and CEO of Dell Inc. arrives at the launch event of Windows 8 operating system in New York, October 25, 2012. REUTERS/Lucas Jackson" title="Michael Dell Chairman and CEO of Dell Inc. arrives at the launch event of Windows 8 operating system in New York, October 25, 2012. REUTERS/Lucas Jackson" border="0" /></a></div><div class="storytype"><a href="http://www.reuters.com/news/technology">Technology</a></div><h2><a href="/article/2013/02/06/us-dell-buyout-microsoft-idUSBRE91505R20130206">Microsoft defends PC ecosystem with Dell loan</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=bill.rigand.poornima.gupta">Bill&nbsp;Rigand&nbsp;Poornima&nbsp;Gupta</a></span></div><p>SEATTLE/SAN FRANCISCO - Microsoft's $2 billion investment in the landmark Dell buyout marks the latest step in the software giant's plan to gain more influence over the hardware supply chain.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/06/us-dell-buyout-microsoft-idUSBRE91505R20130206">Full&nbsp;Article</a></span>&nbsp;</p><div class="related"><ul><li><a href="/article/2013/02/06/us-dell-buyout-silverlake-idUSBRE91505A20130206">For Silver Lake, Dell's beauty is in the eye of the beholder</a></li><li><a href="/article/2013/02/06/us-dell-michaeldell-idUSBRE91503420130206">Michael Dell: Repairing a legacy?</a></li></ul></div></div></div></div></span><span name="trackingEnabledModule" moduleName="E0207130659_344736"><script language="javascript">addImpression("E0207130659_344736");</script><div class="module"><div class="moduleBody"><div class="feature"><div class="photo"><a href="/article/2013/02/06/us-usa-marijuana-unions-idUSBRE91507E20130206"><img src="http://s2.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_6968913320130206064941.jpg" alt="A man rolls a joint made of half marijuana and half tobacco in Olympia, Washington on December 9, 2012. REUTERS/Nick Adams" title="A man rolls a joint made of half marijuana and half tobacco in Olympia, Washington on December 9, 2012. REUTERS/Nick Adams" border="0" /></a></div><div class="storytype"><a href="http://www.reuters.com/news/us">U.S.</a></div><h2><a href="/article/2013/02/06/us-usa-marijuana-unions-idUSBRE91507E20130206">Shrinking unions see relief in marijuana industry</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=samuel.p..jacobs">Samuel&nbsp;P.&nbsp;Jacobs</a> and <a href="http://blogs.reuters.com/search/journalist.php?n=alex.dobuzinskis">Alex&nbsp;Dobuzinskis</a></span></div><p>WASHINGTON/LOS ANGELES - A political bond is growing between the nascent medical marijuana industry and struggling labor unions who see the prospect of hundreds of thousands of new jobs at a time when overall union membership is shrinking.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/06/us-usa-marijuana-unions-idUSBRE91507E20130206">Full&nbsp;Article</a></span>&nbsp;</p><div class="related"><ul><li><a href="/article/2013/02/05/us-usa-marijuana-congress-idUSBRE9140W820130205">Democratic lawmakers seek to decriminalize and tax pot</a></li></ul></div></div></div></div></span><span name="trackingEnabledModule" moduleName="E0207130625_344729"><script language="javascript">addImpression("E0207130625_344729");</script><div class="module"><div class="moduleBody"><div class="feature"><div class="photo"><a href="/article/2013/02/06/us-sp-lawsuit-idUSBRE91504S20130206"><img src="http://s4.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_9276525420130206062538.jpg" alt="A U.S. flag is reflected in a window of the Standard and Poor's building in New York February 5, 2013. REUTERS/Brendan McDermid" title="A U.S. flag is reflected in a window of the Standard and Poor's building in New York February 5, 2013. REUTERS/Brendan McDermid" border="0" /></a></div><div class="storytype"><a href="http://www.reuters.com/finance/deals/regulatory">Regulatory News</a></div><h2><a href="/article/2013/02/06/us-sp-lawsuit-idUSBRE91504S20130206">Lawsuit casts a pall over S&P</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=lauren.tara.lacapra">Lauren&nbsp;Tara&nbsp;LaCapra</a> and <a href="http://blogs.reuters.com/search/journalist.php?n=karen.freifeld">Karen&nbsp;Freifeld</a></span></div><p>The federal government's accusations against Standard & Poor's of double-dealing, fraud and conflicts of interest in the rating of exotic securities renew questions that have dogged ratings agencies since the onset of the financial crisis.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/06/us-sp-lawsuit-idUSBRE91504S20130206">Full&nbsp;Article</a></span>&nbsp;</p><div class="related"><ul><li><a href="http://www.reuters.com/video/2013/02/05/factbox-us-slams-sp-with-5bln-fraud-suit?videoId=240946681&videoChannel=1">Video: A closer look at the civil lawsuit against Standard & Poor's</a></li></ul></div></div></div></div></span><span name="trackingEnabledModule" moduleName="E0207130648_344734"><script language="javascript">addImpression("E0207130648_344734");</script><div class="module"><div class="moduleBody"><div class="feature"><div class="photo"><a href="/article/2013/02/06/us-usa-biden-clout-idUSBRE91507220130206"><img src="http://s2.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_2031111920130206064652.jpg" alt="Britain's Prime Minister David Cameron (R) bids farewell to U.S. Vice President Joe Biden at Number 10 Downing Street in London February 5, 2013.  REUTERS/Neil Hall" title="Britain's Prime Minister David Cameron (R) bids farewell to U.S. Vice President Joe Biden at Number 10 Downing Street in London February 5, 2013.  REUTERS/Neil Hall" border="0" /></a></div><div class="storytype"><a href="http://www.reuters.com/politics">Politics</a></div><h2><a href="/article/2013/02/06/us-usa-biden-clout-idUSBRE91507220130206">Clout of Obama's &quot;Mr Fix-it&quot; extends abroad</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=steve.holland">Steve&nbsp;Holland</a></span></div><p>WASHINGTON - Vice President Joe Biden, already deeply immersed in high-profile domestic policy, is finding that his clout extends to foreign affairs as well, as he plays a top surrogate role for President Barack Obama in the early days of their second term.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/06/us-usa-biden-clout-idUSBRE91507220130206">Full&nbsp;Article</a></span>&nbsp;</p><div class="related"><ul><li><a href="/article/2013/02/05/us-usa-drones-idUSBRE9140X120130205">Memo justifies U.S. drone kills even with patchy intelligence</a></li></ul></div></div></div></div></span><span name="trackingEnabledModule" moduleName="E0207130618_344727"><script language="javascript">addImpression("E0207130618_344727");</script><div class="module"><div class="moduleBody"><div class="feature"><div class="photo"><a href="/article/2013/02/05/us-syria-crisis-opposition-idUSBRE9140YL20130205"><img src="http://s4.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_1230373720130206061809.jpg" alt="An injured Free Syrian Army fighter holds his head soon after a tank shell exploded on a wall during heavy fighting in the Ain Tarma neighbourhood of Damascus January 30, 2013.   REUTERS/Goran Tomasevic" title="An injured Free Syrian Army fighter holds his head soon after a tank shell exploded on a wall during heavy fighting in the Ain Tarma neighbourhood of Damascus January 30, 2013.   REUTERS/Goran Tomasevic" border="0" /></a></div><div class="storytype"><a href="http://www.reuters.com/places/syria">Syria</a></div><h2><a href="/article/2013/02/05/us-syria-crisis-opposition-idUSBRE9140YL20130205">Syria opposition ponders course</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=khaled.yacoub.oweis">Khaled&nbsp;Yacoub&nbsp;Oweis</a></span></div><p>AMMAN - Members of the opposition Syrian National Coalition have called for an emergency meeting to discuss a controversial proposal by its head to negotiate with President Bashar al-Assad's government, opposition sources said.&nbsp; <span class="inlineLinks"><a href="/article/2013/02/05/us-syria-crisis-opposition-idUSBRE9140YL20130205">Full&nbsp;Article</a></span>&nbsp;</p><div class="related"><ul><li><a href="/article/2013/02/05/us-syria-crisis-health-idUSBRE91411G20130205">Disease spreads as Syria casualties, drug shortages grow: WHO</a></li></ul></div></div></div></div></span>
+
+
+
+</div><div id="latestVideos" class="gridPanel grid8"><div class="module inline">
+<div class="moduleHeader"><h3><a href="/news/video">Video</a></h3></div>
+</div><div class="linebreak"></div>
+	<div class="columnLeft"><div id="leadVideo" class="gridPanel grid5"><div class="module">
+		
+		<div class="moduleBody">
+		<div class="mediaList videoList size380">
+<div class="feature"><div class="photo">
+                 <a href="/video/2012/04/04/congressional-insider-trading-ban?videoId=232875646&videoChannel=13976"  >                	
+					  <div class="videoOverlay"></div>
+                      <img
+        		src="http://s1.reutersmedia.net/resources/r/?d=20120404&i=36159901&w=380&r=36159901-1&t=2"
+        		border="0" alt="Congressional insider trading ban"
+        		 />
+     	</a>
+			</div><h2><a href="/video/2012/04/04/congressional-insider-trading-ban?videoId=232875646&videoChannel=13976"  >Congressional insider trading ban</a>
+		</h2><p>April 4 - President Obama signs the STOCK act, which bans insider trading for Congress. Rough Cut (no reporter narration).</p>
+	</div></div><!-- end mediaList -->
+</div>
+		</div>
+		</div></div><div class="columnRight"><div id="moreVideos" class="gridPanel grid3"><div class="module">
+		
+		<div class="moduleBody">
+		<div class="mediaList videoList size80">
+<div class="photo4up"><div class="feature"><div class="photo">
+                 <a href="/video/2013/02/06/airstrikes-in-rural-damscus?videoId=240951126&videoChannel=1"  >                	
+					  <div class="videoOverlay"></div>
+                      <img
+        		src="http://s3.reutersmedia.net/resources/r/?d=20130206&i=55447406&w=80&r=55447406-32_9&t=2"
+        		border="0" alt="Airstrikes in rural Damscus"
+        		 />
+     	</a>
+			</div><h2><a href="/video/2013/02/06/airstrikes-in-rural-damscus?videoId=240951126&videoChannel=1"  >Airstrikes in rural Damscus</a>
+		</h2></div><div class="feature"><div class="photo">
+                 <a href="/video/2013/02/05/richard-iii-bust-reflects-new-details?videoId=240950436&videoChannel=1"  >                	
+					  <div class="videoOverlay"></div>
+                      <img
+        		src="http://s1.reutersmedia.net/resources/r/?d=20130205&i=55428162&w=80&r=55428162-1&t=2"
+        		border="0" alt="Richard III bust reflects new details"
+        		 />
+     	</a>
+			</div><h2><a href="/video/2013/02/05/richard-iii-bust-reflects-new-details?videoId=240950436&videoChannel=1"  >Richard III bust reflects new details</a>
+		</h2></div><div class="feature"><div class="photo">
+                 <a href="/video/2013/02/06/vonn-airlifted-to-hospital-after-crash-a?videoId=240950386&videoChannel=1"  >                	
+					  <div class="videoOverlay"></div>
+                      <img
+        		src="http://s1.reutersmedia.net/resources/r/?d=20130206&i=55440942&w=80&r=55440942-1&t=2"
+        		border="0" alt="Vonn airlifted to hospital after crash at World Championship"
+        		 />
+     	</a>
+			</div><h2><a href="/video/2013/02/06/vonn-airlifted-to-hospital-after-crash-a?videoId=240950386&videoChannel=1"  >Vonn airlifted to hospital after crash at World Championship</a>
+		</h2></div><div class="feature"><div class="photo">
+                 <a href="/video/2013/02/05/cable-trips-disney-zynga-struggles?videoId=240949286&videoChannel=1"  >                	
+					  <div class="videoOverlay"></div>
+                      <img
+        		src="http://s2.reutersmedia.net/resources/r/?d=20130205&i=55435583&w=80&r=55435583-1&t=2"
+        		border="0" alt="Cable trips Disney; Zynga struggles"
+        		 />
+     	</a>
+			</div><h2><a href="/video/2013/02/05/cable-trips-disney-zynga-struggles?videoId=240949286&videoChannel=1"  >Cable trips Disney; Zynga struggles</a>
+		</h2></div></div></div><!-- end mediaList -->
+<div class="moreLink">
+				<a href="/news/video">&#187; All Videos</a></div></div>
+		</div>
+		</div></div><div class="linebreak"></div>
+	
+
+
+
+</div><div class="linebreak"></div>
+	<div id="latestHeadlinesAndColumns" class="gridPanel grid8"><div class="section" id="splitColumn">
+	<div class="sectionContent">
+<div class="linebreak"></div>
+	<div class="sectionColumns">
+
+<div class="column1 gridPanel grid5">
+<div id="channelHeadlines"><div class="module inline">
+	<div class="moduleHeader"><h3>Latest Headlines</h3></div>
+</div><div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/finance">
+					Business</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-markets-global-idUSBRE88901C20130206"  >Yen hit near three-year low as new BOJ governor eyed</a>
+</li><li><a href="/article/2013/02/06/us-dell-buyout-idUSBRE9140NF20130206"  >Dell to go private in landmark $24.4 billion deal</a>
+<span class="video">| <a href="/video/2013/02/05/dells-next-move-may-not-be-so-private?videoId=240947281&newsChannel=businessNews"  ><img src="/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" /></a>
+</span>
+		</li><li><a href="/article/2013/02/06/us-disney-results-idUSBRE91418420130206"  >Disney beats estimates, sees stronger quarters ahead</a>
+<span class="video">| <a href="/video/2013/02/05/disney-solid-but-stock-fully-valued?videoId=240949186&newsChannel=businessNews"  ><img src="/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" /></a>
+</span>
+		</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/finance/markets">
+					Markets</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-economy-europe-east-idUSBRE91509H20130206"  >Emerging Europe business outlook edges up</a>
+</li><li><a href="/article/2013/02/05/us-markets-stocks-idUSBRE9130FX20130205"  >Wall Street bounces back after sell-off; results a boost</a>
+<span class="video">| <a href="/video/2013/02/05/us-day-ahead-investors-hungry-for-more-o?videoId=240947356&newsChannel=ousivMolt"  ><img src="/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" /></a>
+</span>
+		</li><li><a href="/article/2013/02/06/us-markets-forex-idUSBRE9070IW20130206"  >Yen hits near three-year low on BOJ easing progress</a>
+</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/news/world">
+					World</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-syria-crisis-damscus-idUSBRE9150BD20130206"  >Fighting erupts in Damascus as rebels launch attacks</a>
+</li><li><a href="/article/2013/02/06/us-india-airshow-china-idUSBRE9150BX20130206"  >Pakistan port run by China a "matter of concern" for India: minister</a>
+</li><li><a href="/article/2013/02/06/us-ecuador-election-idUSBRE91504020130206"  >Stabbing at Ecuador campaign rally not politically motivated: Correa</a>
+</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/news/technology">
+					Technology</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-microsoft-surface-reviews-idUSBRE91508620130206"  >Microsoft Surface Pro gets tough early reviews</a>
+</li><li><a href="/article/2013/02/06/net-us-usa-fed-hackers-idUSBRE91501920130206"  >Fed says internal site breached by hackers, no critical functions affected</a>
+</li><li><a href="/article/2013/02/06/net-us-google-australia-idUSBRE91502620130206"  >Google wins landmark advertising case in Australia</a>
+</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/news/politics">
+					Politics</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-usa-biden-clout-idUSBRE91507220130206"  >Clout of Obama's "Mr Fix-it" extends abroad at start of second term</a>
+</li><li><a href="/article/2013/02/05/us-usa-fiscal-obama-idUSBRE9140RV20130205"  >Obama proposes short-term budget fix, Republicans swiftly object</a>
+</li><li><a href="/article/2013/02/06/us-usa-congress-cantor-idUSBRE91412A20130206"  >With conciliatory tone, Cantor seeks to rebrand Republican Party</a>
+</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="laundry-list"><div class="module inline">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/finance/deals">
+					Deals</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2013/02/06/us-samsung-engineering-idUSBRE91503U20130206"  >Samsung Engineering says wins $880 million order in Iraq</a>
+</li><li><a href="/article/2013/02/06/us-twitter-deal-idUSBRE91501V20130206"  >Twitter acquires social TV analytics company Bluefin Labs</a>
+</li><li><a href="/article/2013/02/06/us-pinterest-funding-venture-idUSBRE91501P20130206"  >Online scrapbook Pinterest seeks funding at $2 billion valuation: WSJ</a>
+</li></ul>
+	</div>
+		</div>
+		</div><div class="linebreak"></div>
+	
+
+</div></div>
+
+<div class="column2 gridPanel grid3">
+<div id="galleryOfTheDay" class="gallery"><div id="galleryOfTheDay" class="gallery"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/news/pictures">
+					Galleries of the Day</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<div class="mediaList size220">
+<div class="feature"><div class="photo">
+				<a href="/news/pictures/slideshow?articleId=USRTR3DE91">
+					<div class="slideshowOverlay"></div><img
+        		src="http://s2.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701246435&w=220&fh=&fw=&ll=&pl=&r=2013-02-06T022557Z_01_TM4E9251FEG01_RTRRPP_0_USA-ALABAMA-SHOOTING"
+        		border="0" alt="Photo"
+        		 />
+     	</a>
+			</div><h2><a href="/news/pictures/slideshow?articleId=USRTR3DE91">Alabama hostage crisis over</a>
+        </h2></div><ul><li><div class="photo">
+				<a href="/news/pictures/slideshow?articleId=USRTR3CHGX">
+					<div class="slideshowOverlay"></div><img
+        		src="http://s4.reutersmedia.net/resources/r/?m=02&d=20130205&t=2&i=701152042&w=220&fh=&fw=&ll=&pl=&r=2013-02-05T203040Z_09_GM1E92406CO01_RTRRPP_0_SYRIA-CRISIS"
+        		border="0" alt="Photo"
+        		 />
+     	</a>
+			</div><div class="info"><a href="/news/pictures/slideshow?articleId=USRTR3CHGX">Syrian rebels in Damascus</a>
+        </div><div class="linebreak"></div></li><li><div class="photo">
+				<a href="/news/pictures/slideshow?articleId=USRTR3CUDH">
+					<div class="slideshowOverlay"></div><img
+        		src="http://s3.reutersmedia.net/resources/r/?m=02&d=20130205&t=2&i=701105629&w=220&fh=&fw=&ll=&pl=&r=2013-02-05T175011Z_12_GM1E924012101_RTRRPP_0_AFGHANISTAN"
+        		border="0" alt="Photo"
+        		 />
+     	</a>
+			</div><div class="info"><a href="/news/pictures/slideshow?articleId=USRTR3CUDH">Embedded in Afghanistan</a>
+        </div><div class="linebreak"></div></li></ul></div><!-- end mediaList -->
+<div class="moreLink">
+				<a href="/news/pictures">&#187; All Pictures</a></div></div>
+		</div>
+		</div><div class="linebreak"></div>
+	
+
+</div><div class="linebreak"></div>
+	</div>
+
+</div>
+
+</div>
+</div>
+
+
+</div><div class="linebreak"></div>
+	</div>
+
+<div class="column2 gridPanel grid4">
+<div id="opinionCarouselCanvas">
+<div><div id="opinionControls"><span id="lastOpinion" onclick="Reuters.opcarousel.clickprev()"></span><span id="opinionCount"></span><span id="nextOpinion" onclick="Reuters.opcarousel.clicknext()"></span></div></div><div id="opinionCarousel" class="focus"><span name="trackingEnabledModule" moduleName="E0206132324_344646"><script language="javascript">addImpression("E0206132324_344646");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us/">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/jackshafer/2013/02/05/obamas-dicey-license-to-kill/"><img src="http://blogs.reuters.com/wp-content/profile-images/upe2_tn_3281-profile-image.jpg" alt="Jack Shafer" title="Jack Shafer" border="0" /></a></div><h2><a href="http://blogs.reuters.com/jackshafer/2013/02/05/obamas-dicey-license-to-kill/">The president's dicey license to kill</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=jack.shafer">Jack&nbsp;Shafer</a></span></div><p>President Obama's nominee for CIA director, John Brennan, goes to Capitol Hill on Thursday for his confirmation hearing. The leaked white paper arguably gives drone-architect Brennan a little breathing room by blunting the demands for the classified documents. &nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/jackshafer/2013/02/05/obamas-dicey-license-to-kill/">Full&nbsp;Article</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/hugo-dixon/2013/02/04/mario-draghis-poisoned-banking-chalice/">Dixon: Mario Draghi&#8217;s poisoned banking chalice</a></li></ul></div></div></span><span name="trackingEnabledModule" moduleName="E0206132115_344623"><script language="javascript">addImpression("E0206132115_344623");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us/">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/great-debate/2013/02/05/when-republicans-critique-obama-they-critique-their-own-policies/"><img src="http://s1.reutersmedia.net/resources/media/global/assets/images/20121019/20121019_4154411120121019202527.jpg" alt="Ben Adler" title="Ben Adler" border="0" /></a></div><h2><a href="http://blogs.reuters.com/great-debate/2013/02/05/when-republicans-critique-obama-they-critique-their-own-policies/">Republicans critique Obama for their own policies</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=ben.adler">Ben&nbsp;Adler</a></span></div><p>To all the vaunted traditions of the absurd partisan charade in Washington, we can now add another: Republicans attacking President Barack Obama for the results of their own policies.&nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/great-debate/2013/02/05/when-republicans-critique-obama-they-critique-their-own-policies/">Commentary</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/great-debate/2013/02/02/seeking-consensus-on-immigration-guns/">Schneider: Seeking consensus on immigration, guns</a></li></ul></div></div></span><span name="trackingEnabledModule" moduleName="E0206131307_344505"><script language="javascript">addImpression("E0206131307_344505");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us/">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/stories-id-like-to-see/2013/02/05/lying-to-the-sec-a-rods-contract-and-everybody-gets-hacked/"><img src="http://blogs.reuters.com/wp-content/profile-images/upe2_tn_3221-profile-image.jpg?r=7986" alt="Steven Brill" title="Steven Brill" border="0" /></a></div><h2><a href="http://blogs.reuters.com/stories-id-like-to-see/2013/02/05/lying-to-the-sec-a-rods-contract-and-everybody-gets-hacked/">Lying to the SEC, and everybody gets hacked </a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=steven.brill">Steven&nbsp;Brill</a></span></div><p>A firm applying for the SEC's seal of approval seems to have completely fabricated its resume and gotten away with a slap on the wrist. And why did the Wall Street Journal and the Washington Post wait to report that they too had been the victims of Chinese hackers?&nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/stories-id-like-to-see/2013/02/05/lying-to-the-sec-a-rods-contract-and-everybody-gets-hacked/">Commentary</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/thinking-global/2013/02/01/obamas-afghan-test/">Kempe: Obama's Afghan test</a></li></ul></div></div></span><span name="trackingEnabledModule" moduleName="E0206131518_344538"><script language="javascript">addImpression("E0206131518_344538");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/great-debate/2013/02/05/time-to-save-the-postal-service/"><img src="http://s3.reutersmedia.net/resources/media/global/assets/images/20121129/20121129_7318670120121129142252.jpg" alt="David M. Walker" title="David M. Walker" border="0" /></a></div><h2><a href="http://blogs.reuters.com/great-debate/2013/02/05/time-to-save-the-postal-service/">Save the postal service</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=david.m..walker">David&nbsp;M.&nbsp;Walker</a></span></div><p>The U.S. Postal Service is a microcosm of the federal government -- two entities in desperate need of fundamental transformations that will make them more focused on the future and financially sustainable.&nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/great-debate/2013/02/05/time-to-save-the-postal-service/">Commentary</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/nicholas-wapshott/2013/02/01/what-will-11-million-new-citizens-mean/">Wapshott: What will 11 million new citizens mean?</a></li></ul></div></div></span><span name="trackingEnabledModule" moduleName="E0205131856_344269"><script language="javascript">addImpression("E0205131856_344269");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us/">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/edgy-optimist/2013/02/04/amidst-a-banking-dry-spell-small-businesses-kickstart-themselves/"><img src="http://blogs.reuters.com/wp-content/profile-images/upe2_tn_3193-profile-image.jpg" alt="Zachary Karabell" title="Zachary Karabell" border="0" /></a></div><h2><a href="http://blogs.reuters.com/edgy-optimist/2013/02/04/amidst-a-banking-dry-spell-small-businesses-kickstart-themselves/">Amidst a banking dry spell, small businesses kickstart themselves</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=zachary.karabell">Zachary&nbsp;Karabell</a></span></div><p>While the banking sector doesn't want to lend to small businesses, small businesses are finding alternative ways to raise their own money. Just look at Kickstarter and Andrew Sullivan.&nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/edgy-optimist/2013/02/04/amidst-a-banking-dry-spell-small-businesses-kickstart-themselves/">Full&nbsp;Article</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/chrystia-freeland/2013/02/01/the-key-to-the-meaning-of-keystone-xl/">Freeland: The meaning behind Keystone XL</a></li></ul></div></div></span><span name="trackingEnabledModule" moduleName="E0205131319_344180"><script language="javascript">addImpression("E0205131319_344180");</script><div class="module"><div class="moduleHeader"><h3><a href="http://blogs.reuters.com/us/">Opinion</a></h3></div><div class="moduleBody"><div class="feature"><div class="photo"><a href="http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/"><img src="http://s1.reutersmedia.net/resources/media/global/assets/images/20130204/20130204_5758464920130204131755.jpg" alt="Richard Stallman" title="Richard Stallman" border="0" /></a></div><h2><a href="http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/">Fixing &#8216;too-big-to-fail&#8217;</a></h2><div class="story-info"> <span class="byline">By <a href="http://blogs.reuters.com/search/journalist.php?n=richard.stallman">Richard&nbsp;Stallman</a></span></div><p>There are too many large corporations with outsized political power. But if we enact a progressive corporate income tax on gross income, companies would be able to reduce their tax rates by splitting themselves up.&nbsp; <span class="inlineLinks"><a href="http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/">Commentary</a></span>&nbsp;</p></div><ul><li><a href="http://blogs.reuters.com/david-rohde/2013/01/31/make-allies-not-kill-lists/">Rohde: Making allies, not kill lists</a></li></ul></div></div></span></div></div>
+<script type="text/javascript">Reuters.opcarousel.init();</script><div class="linebreak"></div>
+	
+
+
+
+<div class="linebreak"></div>
+	
+
+<div class="linebreak"></div>
+	<div id="specialFeature" class="focus"><span name="trackingEnabledModule" moduleName="E0207130806_344758"><script language="javascript">addImpression("E0207130806_344758");</script><div class="module"><div class="moduleHeader"><h3><a href="http://www.reuters.com/news/video/reuters-tv">Reuters TV</a></h3></div><div class="moduleBody"><div class="gallery feature"><div class="photo"><table cellpadding="0" cellspacing="0" border="0"><tr><td valign="middle"><a href="http://www.reuters.com/video/2013/02/05/dells-next-move-may-not-be-so-private?videoId=240947281&videoChannel=5"><div class="videoOverlayStrip"></div><img src="http://s1.reutersmedia.net/resources/media/global/assets/images/20130206/20130206_1709349120130206080427.jpg" alt="REUTERS/Reuters TV" title="REUTERS/Reuters TV" border="0" /></a></td></tr></table></div><h2><a href="http://www.reuters.com/video/2013/02/05/dells-next-move-may-not-be-so-private?videoId=240947281&videoChannel=5">Dell's next step may not be so private</a></h2><p>Combining with another hardware company, snapping up smaller component makers, or exiting the PC business altogether are some of Dell's options.&nbsp; <span class="inlineLinks"><a href="http://www.reuters.com/video/2013/02/05/dells-next-move-may-not-be-so-private?videoId=240947281&videoChannel=5">Video</a></span>&nbsp;</p></div><ul><li><a href="http://www.reuters.com/video/2013/02/05/factbox-us-slams-sp-with-5bln-fraud-suit?videoId=240946681&videoChannel=5">U.S. slams S&P with $5 billion fraud suit </a></li><li><a href="http://www.reuters.com/video/2013/02/05/reuters-tv-breakingviews-apple-vs-exxon?videoId=240944061&videoChannel=117766">Breakingviews: Apple vs Exxon</a></li><li><a href="http://www.reuters.com/video/2013/01/14/reuters-tv-take-120-no-luv-for-southwest-delta-the?videoId=240460530&videoChannel=118068">No &quot;LUV&quot; for Southwest</a></li></ul></div></div></span></div>
+
+<div class="linebreak"></div>
+	
+
+
+
+<div id="feature-elections">
+
+</div><div class="linebreak"></div>
+	
+
+
+
+<div class="linebreak"></div>
+	<div id="trendWatch" class="focus"><script type="text/javascript">
+Reuters.namespace("social");
+Reuters.social.parsePulse = function(obj){
+	var pulseobj = obj[0];
+	var maxitems = pulseobj.response.length;
+	var className = $("#pulseArticles ul").attr("class");
+	var limitFormat =  /limit-([0-9]{1,2})/;
+	if (typeof className !== 'undefined' && className.match(limitFormat)){
+		maxitems = parseInt(className.match(limitFormat)[1]);
+	} 
+	trace("parsing pulse, maxitems: " + maxitems);
+	if (pulseobj.status == "ok" ){
+		var pHTML = "";
+		var article_arr = pulseobj.response;
+		var count = 0;
+		for (p=0; p<article_arr.length; p++){
+				curr = article_arr[p].page;
+			if (curr.url.indexOf("video") == -1 && count < maxitems){
+				pHTML += '<li>';
+				if (curr.thumbnail && curr.thumbnail != "") pHTML += '<div class="photo"><a href="' +curr.url + '" ><img src="http://s1.reutersmedia.net/resources/r/?t=2&w=85&' + curr.thumbnail +  '"/></a></div>';
+				pHTML += '<a href="' +curr.url + '" >' + curr.title + '</a></li>';
+				count++;
+			}
+		}
+		$("#pulseArticles ul").html(pHTML);
+		$("#pulseArticles").show();
+	}
+}
+
+</script>
+
+<style type="text/css">
+/* Follow Reuters */
+#followReuters .moduleBody {padding-top:8px;}
+#followReuters .moduleBody .columnLeft { width: 125px; margin-right: 20px; }
+#followReuters .moduleBody .columnRight { width: 125px; }
+#followReuters #socialMediaFollow div{width: 25px; height:28px; margin: 0 5px 0 0; padding: 0;}
+#followReuters #socialMediaFollow li {width:100%; }
+#followReuters #socialMediaFollow li div{background: url(/resources_v2/images/socialMediaFollow.gif) no-repeat top left;}
+#followReuters #socialMediaFollow div.facebook {background-position: 0 0; float: left;}
+#followReuters #socialMediaFollow div.linkedin {background-position: 0 -34px; float: left;}
+#followReuters #socialMediaFollow div.newsletter {background-position: 0 -68px; float: left;}
+#followReuters #socialMediaFollow div.rss {background-position: 0 -102px; float: left;}
+#followReuters #socialMediaFollow div.twitter {background-position: 0 -136px; float: left;}
+#followReuters #socialMediaFollow div.youtube {background-position: 0 -170px; float: left;}
+#followReuters #socialMediaFollow .fans {font-size: 10px; font-weight: normal;}
+#followReuters #socialMediaFollow .fans a {color: #000000; font-size: 11px; font-weight: bold;}
+#followReuters #socialMediaFollow .fans a:visited {color: #000000 !important;}
+#pulseArticles ul li {width: 100%; float: left;}
+#pulseArticles ul li .photo {float: left; margin: 0 10px 4px 0;}
+</style><div class="linebreak"></div>
+	<div class="module">
+<div class="moduleHeader"><h3><a href="/social">Social Pulse</a></h3></div>
+<div class="moduleBody"><div  id="pulseArticles">
+<div class="module inline">
+<div class="moduleHeader"><h3>Going Viral</h3></div>		
+<div class="moduleBody"><ul class="limit-5"></ul></div>
+</div>
+</div>
+<script type="text/javascript">
+	var pulseObjects= [{"response":[{"page":{"title":"Dell to go private in landmark $24.4 billion deal","thumbnail":"m=02&d=20130205&i=701090521&r=CBRE91414WH00","pageviews":125418,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-dell-buyout-idUSBRE9140NF20130205"}},{"page":{"title":"49ers coach second-guesses his Super Bowl play calling","thumbnail":"m=02&d=20130205&i=701211766&r=CBRE9141UGU00","pageviews":64583,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-nfl-superbowl-49ers-harbaugh-idUSBRE9141DB20130205"}},{"page":{"title":"Obama proposes short-term budget fix, Republicans swiftly object","thumbnail":"m=02&d=20130205&i=701197864&r=CBRE9141GUZ00","pageviews":48697,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-usa-fiscal-obama-idUSBRE9140RV20130205"}},{"page":{"title":"Iran's Ahmadinejad kissed and scolded in Egypt","thumbnail":"m=02&d=20130205&i=701142843&r=CBRE9141JCM00","pageviews":45620,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-egypt-iran-idUSBRE9140EK20130205"}},{"page":{"title":"Face of Richard III, England's king in the car park, revealed","thumbnail":"m=02&d=20130205&i=701062068&r=ALNE91417U000","pageviews":26304,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/uk-britain-richard-idUSLNE91301X20130205"}},{"page":{"title":"North Korea threatens stronger measures than nuclear test","thumbnail":"m=02&d=20130205&i=701151002&r=CBRE9140ZYT00","pageviews":17753,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-korea-north-idUSBRE9140K720130205"}},{"page":{"title":"After 500 years, Richard III's bones yield their secret","thumbnail":"m=02&d=20130204&i=700768994&r=CBRE9130XOV00","pageviews":16771,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/04\/us-britain-richard-idUSBRE9130BW20130204"}},{"page":{"title":"Alabama boy rescued from bunker eating, laughing","thumbnail":"m=02&d=20130205&i=701140576&r=CBRE9141IWJ00","pageviews":16710,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/05\/us-usa-alabama-shooting-idUSBRE9140XA20130205"}},{"page":{"title":"S&P expects U.S. lawsuit over pre-crisis credit ratings","thumbnail":"m=02&d=20130204&i=700842218&r=CBRE9131H6D00","pageviews":15951,"url":"http:\/\/www.reuters.com\/article\/2013\/02\/04\/us-mcgrawhill-sandp-civilcharges-idUSBRE9130U120130204"}}],"status":"ok"}];
+	
+		if (typeof Reuters.social.parsePulse == 'function') { Reuters.social.parsePulse(pulseObjects); } 
+	</script>
+
+
+
+
+<div class="dividerInlineH"></div>
+
+
+	<div class="module">
+		<div class="moduleHeader"><h3>Facebook Activity</h3></div>
+		<div class="moduleBody">
+<iframe src="//www.facebook.com/plugins/activity.php?site=www.reuters.com&amp;width=270&amp;height=300&amp;header=false&amp;colorscheme=light&amp;linktarget=_blank&amp;border_color&amp;font&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:300px;" allowTransparency="true"></iframe>
+		</div>
+	</div>
+<div class="dividerInlineH"></div>
+
+<style type="text/css">
+#followPopup .twitterHover .tweetscreenname a{background: url(http://www.reuters.com/resources/media/global/images/Twitter-verified-icon.gif) no-repeat 65px  2px;}
+</style>
+
+<div class="moduleHeader"><h3>Follow Reuters</h3></div><link href="/resources_v2/css/widget-stocktwits-featured.css" rel="stylesheet" />
+<script type="text/javascript" src="/resources_v2/js/widget-stocktwits-featured.js"></script><div class="linebreak"></div>
+	<div id="followReuters">
+    <div class="module inline">
+        <div class="moduleBody">
+                 <ul id="socialMediaFollow">
+                     <li class="facebook"><a href="https://www.facebook.com/Reuters" target="_blank">&nbsp;</a></li>
+                     <li class="twitter"><a href="https://twitter.com/#!/reuters" target="_blank">&nbsp;</a></li>
+                     <li class="linkedin"><a href="http://www.linkedin.com/today/reuters.com" target="_blank">&nbsp;</a></li>
+					 <li class="youtube"><a href="http://www.youtube.com/reuters" target="_blank">&nbsp;</a></li>
+					 <li class="reutersTV"><a href="http://www.youtube.com/user/ReutersTV" target="_blank">&nbsp;</a></li>
+					 <li class="rss"><a href="http://www.reuters.com/tools/rss" target="_blank">&nbsp;</a></li>
+					 <li class="newsletters"><a href="https://commerce.us.reuters.com/profile/pages/newsletter/begin.do" target="_blank">&nbsp;</a></li>
+					 <li class="mobile last"><a href="http://www.reuters.com/tools/mobile" target="_blank">&nbsp;</a></li>
+                 </ul>
+        </div>
+	</div>			
+<div id="followPopup">	
+	<div class="facebookHover" style="display:none"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Freuters&width=292&height=258&colorscheme=light&show_faces=true&border_color=000&stream=false&header=false&appId=275945495752041" scrolling="no" frameborder="0" style="border:1px solid #ccc; overflow:hidden; width:292px; height:258px; padding:10px; background-color:#fff;" allowTransparency="false"></iframe><span class="arrow"></span></div>
+	<div class="twitterHover" style="display:none">
+	<div id="tweethtml"><div class="tweetPhoto"><a href="http://twitter.com/Reuters" target="_blank"><img border="0" alt="Photo" src="http://www.reuters.com/resources/media/global/images/Twitter-reuters-profile.jpg"></a></div><a href="http://twitter.com/Reuters" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en" data-width="60px" data-align="right" data-size="medium">Follow</a><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><div class="tweetdetails"><span class="tweetname">Reuters Top News</span><span class="tweetscreenname"><a href="http://twitter.com/Reuters" target="_blank">@Reuters</a></span></div></div><span class="arrow"></span></div>
+</div>
+</div>
+
+<script type="text/javascript">
+  $('#socialMediaFollow li.facebook').hover(
+  function () {$('.facebookHover').show().mouseover(function(){$(this).show();}).mouseout(function() {
+  $(this).hide();});}, function () {$('.facebookHover').hide();}
+);
+  $('#socialMediaFollow li.twitter').hover(
+  function () {$('.twitterHover').show().mouseover(function(){$(this).show();}).mouseout(function() {
+  $(this).hide();});}, function () {$('.twitterHover').hide();}
+);
+</script>
+
+
+</div>
+</div>
+
+</div><div class="linebreak"></div>
+	<div id="feature-counterparties"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="http://counterparties.com">
+					Counterparties</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<ul>
+		<li class="dup"><a href="http://professional.wsj.com/article/SB10001424127887324761004578284330551586800.html?ftcamp=crm%2Femail%2F201325%2Fnbe%2FAlphavilleLondon%2Fproduct&mod=WSJ_hp_LEFTWhatsNewsCollection"  >The SEC's "chronic" enforcement problem: conflicts of interest that prevent enforcement</a>
+<div class="contributor"><a href="http://blogs.reuters.com/search/journalist.php?n=professional.wsj.com">professional.wsj.com</a></div>
+    </li><li class="dup"><a href="http://blogs.reuters.com/felix-salmon/files/2013/02/U.S.-v.-SP.pdf"  >The full text of the US suit against S&P</a>
+</li><li class="dup"><a href="http://nationaljournal.com/magazine/health-care-great-for-the-economy-today-terrible-later-20130131?wpisrc=nl_wonk"  >The crazy rise in health care spending is good for the economy -- but only in the short-term</a>
+<div class="contributor"><a href="http://blogs.reuters.com/search/journalist.php?n=nationaljournal.com">nationaljournal.com</a></div>
+    </li><li class="dup"><a href="http://bloomberg.com/news/2013-02-04/too-big-to-fail-too-hard-to-fix-amid-calls-to-curb-banks.html"  >There's a brand new push to make Dodd-Frank regulations tougher on big banks</a>
+<div class="contributor"><a href="http://blogs.reuters.com/search/journalist.php?n=bloomberg.com">bloomberg.com</a></div>
+    </li></ul>
+	<div class="moreLink">
+				<a href="http://counterparties.com">&#187; More Links at Counterparties.com</a></div></div>
+		</div>
+		</div><div class="linebreak"></div>
+	<script type="text/javascript">
+$('#feature-counterparties .contributor a').each( function(index) {
+	$(this).attr("href", 'http://' + $('#feature-counterparties li > a')[index].hostname);
+});
+</script>
+
+<div class="linebreak"></div>
+	<div id="specialFeature" class="focus"><span name="trackingEnabledModule" moduleName="E0130132338_342759"><script language="javascript">addImpression("E0130132338_342759");</script><div class="module"><div class="moduleHeader"><h3><a href="http://www.reuters.com/finance/stocks/overview?symbol=CHK.N">Inside Chesapeake</a></h3></div><div class="moduleBody"><div class="gallery feature"><div class="photo"><img src="http://s4.reutersmedia.net/resources/media/global/assets/images/20130129/20130129_1884250620130129233356.jpg" alt="An Encana production well for oil and natural gas is seen in a state forest park in Kalkaska, Michigan, June 20, 2012. Picture taken June 20, 2012. REUTERS/Rebecca Cook" title="An Encana production well for oil and natural gas is seen in a state forest park in Kalkaska, Michigan, June 20, 2012. Picture taken June 20, 2012. REUTERS/Rebecca Cook" border="0" /></div><h2>Highlights from the Reuters series</h2></div><ul><li><a href="/article/2012/10/02/us-chesapeake-landgrab-substory-idUSBRE8910E920121002">Casualties of Chesapeake&#8217;s &#8220;land grab&#8221;</a></li><li><a href="/article/2012/06/25/us-chesapeake-land-deals-idUSBRE85O0EI20120625">Energy rivals plotted to suppress land prices</a></li><li><a href="/article/2012/05/02/us-chesapeake-mcclendon-hedge-idUSBRE8410GG20120502">The Chesapeake CEO&#8217;s secret hedge fund</a></li><li><a href="/article/2012/06/07/us-chesapeake-mcclendon-profile-idUSBRE8560IB20120607">The lavish, leveraged life of Aubrey McClendon</a></li><li><a href="/article/2012/05/10/us-chesapeake-wallstreet-machine-idUSBRE84900620120510">Chesapeake's deepest well: Wall Street</a></li></ul></div></div></span></div>
+
+<div class="linebreak"></div>
+	<div class="ad">
+
+		<script language="javascript" type="text/javascript">
+			// krux kseg and kuid from krux header tag
+			//var kruxvars = (typeof(kseg)=='undefined'?'':kseg) + (typeof(kuid)=='undefined'?'':kuid);
+		  var adsrc = 'us.reuters/home;' + 'type=mpulow;sz=300x250;tile=3;' + '';
+		  adsrc = TR.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		  adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('mpulow') == false) &&
+		      (typeof (hideAd_16326137) == 'undefined' || hideAd_16326137 == false)) {
+            TR.writeDFPURL("http://ad.doubleclick.net/adj/" + adsrc);
+		  }
+
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/jump/us.reuters/home;type=mpulow;sz=300x250;tile=3;ord=2237?" target="_blank">
+		      <img src="http://ad.doubleclick.net/ad/us.reuters/home;type=mpulow;sz=300x250;tile=3;ord=2237?" width="300" height="250" border="0" alt="">
+		    </a>
+		</noscript>
+
+		</div>
+
+		<div class="linebreak"></div>
+	</div>
+
+</div>
+
+</div>
+</div>
+<div class="section">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div id="freqCap_PushUp" style="display:none;">
+	<div id="PushUpContainer" class="PushUpContainer">
+    	<div class="ad">
+
+		<script language="javascript" type="text/javascript">
+			// krux kseg and kuid from krux header tag
+			//var kruxvars = (typeof(kseg)=='undefined'?'':kseg) + (typeof(kuid)=='undefined'?'':kuid);
+		  var adsrc = 'us.reuters/home;' + 'type=PushUp;sz=1x1;taga=aaaaaaaaa;' + ';dcmt=;dcmt=application/x-javascript';
+		  adsrc = TR.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		  adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ( typeof(freqCap_PushUp) == 'undefined' || freqCap_PushUp == null ) {
+		      try { console.debug("frequency manager: %s is undefined, could be channel include/exclude or scheduling", 'freqCap_PushUp') } catch(e) {};
+		  }
+		  if ( typeof(freqCap_PushUp) != 'undefined' &&
+		       ((typeof(freqCap_PushUp.isAdNeeded) != 'undefined' && freqCap_PushUp.isAdNeeded()) ||
+		        (typeof(freqCap_PushUp.isDefaultAdNeeded) != 'undefined' && freqCap_PushUp.isDefaultAdNeeded()))) {
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('PushUp') == false) &&
+		      (typeof (hideAd_16638085) == 'undefined' || hideAd_16638085 == false)) {
+            TR.writeDFPURL("http://ad.doubleclick.net/adx/" + adsrc);
+		  }
+
+		  
+		  }
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/jump/us.reuters/home;type=PushUp;sz=1x1;taga=aaaaaaaaa;ord=3137?" target="_blank">
+		      <img src="http://ad.doubleclick.net/ad/us.reuters/home;type=PushUp;sz=1x1;taga=aaaaaaaaa;ord=3137?" width="1" height="1" border="0" alt="">
+		    </a>
+		</noscript>
+
+		</div>
+
+		</div>
+</div>
+
+<script type="text/javascript">
+	if ( typeof(freqCap_PushUp) != 'undefined' && 
+       ((typeof(freqCap_PushUp.isAdNeeded) != 'undefined' && (freqCap_PushUp.isAdNeeded())) || 
+       (typeof(freqCap_PushUp.isDefaultAdNeeded) != 'undefined' && freqCap_PushUp.isDefaultAdNeeded()))) {
+	    document.getElementById('freqCap_PushUp').style.display = 'block';
+	}
+</script>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section bleeding" id="footerHead">
+	<div class="sectionContent">
+<div id="footerHeader"><div class="columnLeft"><div class="logo"><div id="footerLogo"><a href="/">&nbsp;</a></div></div></div><div class="columnLeft">	<div id="editionsFooter" class="panel editions">
+			<ul id="editionSwitchFooter" class="editionSwitch">
+				<li>
+					<div class="currentEditionTitle">Edition:</div>
+					<div class="currentEdition">U.S.</div>
+					<div class="editionArrow"></div>
+					<ul>
+						<li><a href="http://ara.reuters.com">Arabic</a></li>
+						<li><a href="http://ar.reuters.com">Argentina</a></li>
+						<li><a href="http://br.reuters.com">Brazil</a></li>
+						<li><a href="http://ca.reuters.com">Canada</a></li>
+						<li><a href="http://cn.reuters.com">China</a></li>
+						<li><a href="http://fr.reuters.com">France</a></li>
+						<li><a href="http://de.reuters.com">Germany</a></li>
+						<li><a href="http://in.reuters.com">India</a></li>
+						<li><a href="http://it.reuters.com">Italy</a></li>
+						<li><a href="http://jp.reuters.com">Japan</a></li>
+						<li><a href="http://lta.reuters.com">Latin America</a></li>
+						<li><a href="http://mx.reuters.com">Mexico</a></li>
+					    <li><a href="http://ru.reuters.com">Russia</a></li>
+						<li><a href="http://es.reuters.com">Spain</a></li>
+						<li><a href="http://uk.reuters.com">United Kingdom</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+<script type="text/javascript">
+if(Reuters.info.edition == "BETAUS") {
+	$("#editionSwitchFooter .currentEdition").text('U.S.');
+} else {
+	$("#editionSwitchFooter .currentEdition").text(Reuters.info.edition);
+}
+</script></div><div class="columnRight"><div id="topLink"><a href="#top"><p>Back to top</p></a></div></div></div><div class="sectionColumns">
+
+<div class="column1">
+</div>
+
+<div class="column2">
+</div>
+
+<div class="column3">
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section bleeding" id="footer">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div class="columnLeft"><div class="gridPanel grid12">
+<span class="footerparent">Reuters.com</span>
+<ul>
+	<li class="h-links"><a href="http://www.reuters.com/finance">Business</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/finance/markets">Markets</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/world">World</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/politics">Politics</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/technology">Technology</a></li>
+	<li class="h-links"><a href="http://blogs.reuters.com/us/">Opinion</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/finance/personal-finance">Money</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/pictures">Pictures</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/video">Videos</a></li>
+	<li class="h-linkend"><a href="http://www.reuters.com/assets/siteindex">Site Index</a></li>
+</ul>
+
+
+
+</div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent"><a href="http://newsandinsight.thomsonreuters.com/Legal/" target="_blank">Legal</a></span>
+<ul>
+	<li class="h-links"><a href="http://newsandinsight.thomsonreuters.com/Legal/Bankruptcy/" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','newsandinsight.thomsonreuters.com','DCS.dcsuri','/Legal/Bankruptcy/','WT.ti','Offsite: newsandinsight.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://newsandinsight.thomsonreuters.com/Legal/Bankruptcy/');">Bankruptcy Law</a></li>
+	<li class="h-links"><a href="http://newsandinsight.thomsonreuters.com/Legal/CA/" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','newsandinsight.thomsonreuters.com','DCS.dcsuri','/Legal/CA/','WT.ti','Offsite: newsandinsight.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://newsandinsight.thomsonreuters.com/Legal/CA/');">California Legal</a></li>
+	<li class="h-links"><a href="http://newsandinsight.thomsonreuters.com/Legal/NY/" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','newsandinsight.thomsonreuters.com','DCS.dcsuri','/Legal/NY/','WT.ti','Offsite: newsandinsight.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://newsandinsight.thomsonreuters.com/Legal/NY/');">New York Legal</a></li>
+	<li class="h-linkend"><a href="http://newsandinsight.thomsonreuters.com/Legal/Securities/" target="_blank" onclick="dcsMultiTrack('DCS.dcssip','newsandinsight.thomsonreuters.com','DCS.dcsuri','/Legal/Securities/','WT.ti','Offsite: newsandinsight.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://newsandinsight.thomsonreuters.com/Legal/Securities/');">Securities Law</a></li>
+</ul></div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent">Support & Contact</span>
+<ul>
+	<li class="h-links"><a href="http://reuters.zendesk.com">Support</a></li>
+	<li class="h-linkend"><a href="http://reuters.zendesk.com/anonymous_requests/new">Corrections</a></li>
+</ul>
+</div></div><div class="columnLeft"><div id="footer-utilities" class="gridPanel grid12"></div></div><div class="columnLeft"><div class="gridPanel grid12">
+<span class="footerparent">Connect with Reuters</span>
+<ul>
+<li id="foot-twitter"><a href="http://www.twitter.com/reuters">Twitter</a>&nbsp;&nbsp;</li>
+<li id="foot-facebook"><a href="http://www.facebook.com/Reuters">Facebook</a>&nbsp;&nbsp;</li>
+<li id="foot-linkedin"><a href="http://www.linkedin.com/today/reuters.com">LinkedIn</a>&nbsp;&nbsp;</li>
+<li id="foot-rssfeed"><a href="http://www.reuters.com/tools/rss">RSS</a>&nbsp;&nbsp;</li>
+<li id="foot-podcasts"><a href="http://www.reuters.com/tools/podcasts">Podcast</a>&nbsp;&nbsp;</li>
+<li id="foot-newsletters"><a href="https://commerce.us.reuters.com/profile/pages/newsletter/begin.do">Newsletters</a>&nbsp;&nbsp;</li>
+<li id="foot-mobile"><a href="http://www.reuters.com/tools/mobile">Mobile</a></li>
+</ul>
+</div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent">About</span>
+<ul>
+	<li class="h-links"><a href="http://www.reuters.com/privacy-policy">Privacy Policy</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/terms-of-use">Terms of Use</a></li>
+	 <li class="h-links"><a href="http://static.reuters.com/resources_v2/images/media_guide_01_08_13.pdf" target="_blank">Advertise With Us</a></li>
+         <li class="h-links" id="evidon-footer"><a id="_bapw-link" href="#" target="_blank"><img id="_bapw-icon" border="0" src="http://cdn.betrad.com/pub/icon1.png" /><span id="evidon-text">AdChoices</span></a></li>
+	<li class="h-linkend" id="footer-endrow"><a href="http://thomsonreuters.com/copyright/">Copyright</a></li>
+</ul>
+<script>/**/(function(){var g=285,i=1237,a=false,h=document,j=h.getElementById("_bapw-link"),e=(h.location.protocol=="https:"),f=(e?"https":"http")+"://",c=f+(e?"a248.e.akamai.net/betterad.download.akamai.com/91609":"cdn.betrad.com")+"/pub/";function b(k){var d=new Image();d.src=f+"l.betrad.com/pub/p.gif?pid="+g+"&ocid="+i+"&i"+k+"=1&r="+Math.random()}h.getElementById("_bapw-icon").src=c+"icon1.png";j.onmouseover=function(){if(/#$/.test(j.href)){j.href="http://info.evidon.com/pub_info/"+g+"?v=1"}};j.onclick=function(){var k=window._bap_p_overrides;function d(n,q){var o=h.getElementsByTagName("head")[0]||h.documentElement,m=a,l=h.createElement("script");function p(){l.onload=l.onreadystatechange=null;o.removeChild(l);q()}l.src=n;l.onreadystatechange=function(){if(!m&&(this.readyState=="loaded"||this.readyState=="complete")){m=true;p()}};l.onload=p;o.insertBefore(l,o.firstChild)}if(k&&k.hasOwnProperty(g)){if(k[g].new_window){b("c");return true}}this.onclick="return "+a;d(f+"ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",function(){d(c+"pub2.js",function(){BAPW.i(j,{pid:g,ocid:i})})});return a};b("i")}());/**/</script>
+</div></div><div id="tr-intro" class="gridPanel grid12"><div id="tr-description"><img src="/resources_v2/images/tr-source-txt.gif" border="0" /></div></div><div class="linebreak"></div>
+	<div id="tr-logo" class="gridPanel grid12"><a href="http://www.thomsonreuters.com/"><div id="tr-footer">&nbsp;</div></a></div><div class="linebreak"></div>
+	<div id="tr-info" class="gridPanel grid12"><div class="tr-products">
+<div id="tr-eikon">
+<div class="tr-header1"><a href="http://thomsonreuters.com/products_services/financial/eikon/" onclick="dcsMultiTrack('DCS.dcssip','thomsonreuterseikon.com','DCS.dcsuri','/','WT.ti','Offsite: thomsonreuterseikon.com','WT.dl','24','WT.z_offsite','http://thomsonreuterseikon.com/');"></a></div>
+<div class="tr-descr">Our Flagship financial information platform incorporating Reuters Insider</div>
+</div>
+
+<div id="tr-elektron">
+<div class="tr-header1"><a href="http://thomsonreuters.com/products_services/financial/financial_products/a-z/elektron/" onclick="dcsMultiTrack('DCS.dcssip','www.pehub.com','DCS.dcsuri','/','WT.ti','Offsite: www.pehub.com','WT.dl','24','WT.z_offsite','http://www.pehub.com/');"OnClick="dcsMultiTrack('DCS.dcssip','thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: thomsonreuters.com','WT.dl','24','WT.z_offsite','http://thomsonreuters.com/');"></a></div>
+<div class="tr-descr">An ultra-low latency infrastructure for electronic trading and data distribution</div>
+</div>
+
+<div id="tr-accelus">
+<div class="tr-header1"><a href="http://www.accelus.thomsonreuters.com/" onclick="dcsMultiTrack('DCS.dcssip','www.accelus.thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: www.accelus.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://www.accelus.thomsonreuters.com/');"></a></div>
+<div class="tr-descr">A connected approach to governance, risk and compliance</div>
+</div>
+
+<div id="tr-westlaw">
+<div class="tr-header3"><a href="http://west.thomson.com/westlawnext/default.aspx" onclick="dcsMultiTrack('DCS.dcssip','west.thomson.com','DCS.dcsuri','/westlawnext/default.aspx','WT.ti','Offsite: west.thomson.com','WT.dl','24','WT.z_offsite','http://west.thomson.com/westlawnext/default.aspx');"></a></div>
+<div class="tr-descr">Our next generation legal research platform</div>
+</div>
+
+<div id="tr-onesource">
+<div class="tr-header1"><a href="http://onesource.thomsonreuters.com/" onclick="dcsMultiTrack('DCS.dcssip','onesource.thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: onesource.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://onesource.thomsonreuters.com/');"></a></div>
+<div class="tr-descr">Our global tax workstation</div>
+</div>
+
+<div id="tr-linklist">
+<ul>
+<li class="tr-descr"><a href="http://thomsonreuters.com/">Thomsonreuters.com</a></li>
+<li class="tr-descr"><a href="http://thomsonreuters.com/about/">About Thomson Reuters</a></li>
+<li class="tr-descr"><a href="http://ir.thomsonreuters.com">Investor Relations</a></li>
+<li class="tr-descr"><a href="http://careers.thomsonreuters.com/">Careers</a></li>
+<li class="tr-descr"><a href="http://thomsonreuters.com/about/contact_us/">Contact Us</a></li>
+</ul>
+</div>
+
+</div></div><div class="linebreak"></div>
+	</div>
+
+</div>
+
+<div id="disclaimer"><p><a href="http://www.thomsonreuters.com">Thomson Reuters</a> is the world's largest international multimedia news agency, providing <a href="http://www.reuters.com/finance/markets/us">investing news</a>, <a href="http://www.reuters.com/news/world">world news</a>, <a href="http://www.reuters.com/finance">business news</a>, <a href="http://www.reuters.com/news/technology">technology news</a>, headline news, <a href="http://www.reuters.com/finance/smallBusiness">small business news</a>, news alerts, <a href="http://www.reuters.com/finance/personal-finance">personal finance</a>, <a href="http://www.reuters.com/finance/stocks">stock market</a>, and <a href="http://funds.us.reuters.com/US/overview.asp">mutual funds information</a> available on Reuters.com, <a href="http://www.reuters.com/news/video">video</a>, <a href="http://www.reuters.com/tools/mobile">mobile</a>, and interactive television platforms. Thomson Reuters journalists are subject to an <a href="http://handbook.reuters.com">Editorial Handbook</a> which requires fair presentation and disclosure of relevant interests.</p>
+
+<p>NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete <a href="http://www.reuters.com/info/disclaimer" target="_blank">list of exchanges and delays, please click here</a>.</p></div><div id="Footer1"></div><img src="http://www.bizographics.com/collect/?fmt=gif&url=reuters.com&pid=501" width="1" height="1" border="0" alt="">
+<div class="linebreak"></div>
+	<script type="text/javascript">
+var _baq = _baq || [];
+_baq.push(['setClientId','e1icvk']);
+_baq.push(['trackPageView']);
+
+_baq.push(['setCustomVariable',1,'section','BETAUS'])
+
+var author = '';
+var authorNameList = '';
+if (author != '') {
+    author = author.replace(/<a[^>]*">/g, '');
+    author = author.replace(/<\/a>/g, '');
+    var authors = author.split(' and ');
+    var nameList = '';
+    for (var i=0; i<authors.length; i++) {
+       if (authorNameList != '') {
+            authorNameList = authorNameList.trim() + ";";
+       }
+       authorNameList = authorNameList + authors[i].trim();
+    }
+    authorNameList = authorNameList.replace(",", ";");
+}
+
+if (authorNameList != '') {
+_baq.push(['setCustomVariable',2,'author',authorNameList])
+}
+
+(function () { var s = document.createElement('script'); s.src = ('https:' == document.location.protocol ? 'https://commerce.us.reuters.com' : 'http://mediacdn.reuters.com') + '/pulse/2/trb.js'; (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s); }());
+</script>
+
+</div>
+</div>
+
+
+</div>
+
+<SCRIPT TYPE="text/javascript">
+document.write("<SCR"+"IPT TYPE='text/javascript' SRC='" + "http" + (window.location.protocol.indexOf('https:')==0?'s':'') + "://js.revsci.net/gateway/gw.js?csid=I07714' CHARSET='ISO-8859-1'"+"><\/SCR"+"IPT>");
+</SCRIPT>
+
+<script type="text/javascript">
+<!--
+      I07714.DM_cat("us.reuters > home");
+      I07714.DM_tag();
+//-->
+</SCRIPT><!-- Begin comScore Tag -->
+<script type="text/javascript">document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script>
+<script type="text/javascript">
+	COMSCORE.beacon({ c1:2, c2:"6035630", c3:"", c4:"", c5:"",  c6:"", c15:"" });
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag --><META name="DCSext.rChannel" content="Home">
+<META name="DCSext.rCountry" content="BETAUS">
+<META name="WT.cg_n" content="Home - Landing">
+<META name="WT.cg_s" content="Home">
+<META name="DCSext.DartZone" content="us.reuters/home">
+<script type="text/javascript">
+var loginCookieValue =  YAHOO.util.Cookie.get("login");
+if(loginCookieValue != null && loginCookieValue != ''){
+
+	loginMeta = document.createElement('META');
+	loginMeta.name = 'WT.z_li';
+
+	var customerId = YAHOO.util.Cookie.get("customerId");
+	var socialLoginProvider = YAHOO.util.Cookie.get("socialLoginProvider");
+	if(customerId != null && customerId != '' && socialLoginProvider != null && socialLoginProvider != ''){
+		socialLoginProvider = socialLoginProvider.toLowerCase();
+		if(socialLoginProvider == 'google'){
+			loginMeta.content = "2";
+		} else if(socialLoginProvider == 'facebook'){
+			loginMeta.content = "3";
+		} else if(socialLoginProvider == 'linkedin'){
+			loginMeta.content = "4";
+		} else if(socialLoginProvider=='aol'){
+			loginMeta.content = "5";
+		} else if(socialLoginProvider=='twitter'){
+			loginMeta.content = "6";
+		} else if(socialLoginProvider=='myspace'){
+			loginMeta.content = "7";
+		} else if(socialLoginProvider=='yahoo'){
+			loginMeta.content = "8";
+		}
+	} else {
+		loginMeta.content = "1";
+	}
+
+	document.getElementsByTagName('head')[0].appendChild(loginMeta);
+   }
+
+var registeredCookieValue =  YAHOO.util.Cookie.get("ruus");
+
+if(registeredCookieValue != null && registeredCookieValue != 'undefined' && registeredCookieValue != ''){
+	registeredMeta = document.createElement('META');
+	registeredMeta.name = "WT.z_registered";
+	registeredMeta.content = encodeURIComponent(registeredCookieValue);
+	document.getElementsByTagName('head')[0].appendChild(registeredMeta);
+}
+
+</script>
+<META name="DCSext.ContentChannel"  content="Home">
+
+		<META name="DCSext.ContentType"  content="Home">
+    <!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.0 -->
+<!-- Tag Builder Version: 2.1.0  -->
+<!-- Created: 2/9/2009 17:21:12 -->
+<script src="http://s4.reutersmedia.net/resources_v2/js/webtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+setModuleImpressionTracking();
+_tag.dcsCollect();
+dscQuantcast(_tag);
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsncwimc10000kzgoor3wv9x_3f2v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-24152976-1']);
+_gaq.push(['_setDomainName', '.reuters.com']);
+_gaq.push(['_trackPageview']);
+
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>
+
+<!-- Begin BlueKai Tag -->
+<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+<script type="text/javascript" src="http://www.bkrtx.com/js/bk-static.js"></script>
+
+<script>
+	try{		
+		var bkSocialLogin = (typeof socialLoginProvider!="undefined"?socialLoginProvider:"");
+		var bkReferrer = (typeof document.referrer.split("/")[2]!="undefined"?document.referrer.split("/")[2]:"");
+		var bkLoginCookieValue = (typeof loginCookieValue!="undefined"?loginCookieValue:"");
+		var bkSearchVal = (typeof document.location.search!="undefined"?document.location.search:"");
+		var bkRegVal = (typeof registeredCookieValue!="undefined"?registeredCookieValue:"");
+		var bkWTFPCCookie = (typeof YAHOO.util.Cookie.get("WT_FPC")!="undefined"?YAHOO.util.Cookie.get("WT_FPC"):"");
+		
+		bkWTFPCCookieArr = bkWTFPCCookie.split("="); 
+		bkWTFPCCookieKeyArr = bkWTFPCCookieArr[1].split(":");
+		bkWTFPCCookieKey = bkWTFPCCookieKeyArr[0];
+		
+		//Get Meta Values from Cookie
+		var bkMetaArray = document.getElementsByTagName("meta");
+		for(var i=0;i<bkMetaArray.length;i++){
+			if(bkMetaArray[i].getAttribute("name")){			
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.rChannel")>-1){
+					bk_addPageCtx("rch", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.rCountry")>-1){
+					bk_addPageCtx("rco", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("WT.cg_n")>-1){
+					bk_addPageCtx("wcntn", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("WT.cg_s")>-1){
+					bk_addPageCtx("wcnts", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.ContentChannel")>-1){
+					bk_addPageCtx("cc", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.ContentType")>-1){
+					bk_addPageCtx("cnt", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.PageNumber")>-1){
+					bk_addPageCtx("pn", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.PageTotal")>-1){
+					bk_addPageCtx("pt", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.VideoType")>-1){
+					bk_addPageCtx("vt", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.rAuthor")>-1){
+					bk_addPageCtx("aut", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.Comments")>-1){
+					bk_addPageCtx("com", bkMetaArray[i].getAttribute("content"));
+				}
+				if(bkMetaArray[i].getAttribute("name").indexOf("DCSext.DartZone")>-1){
+					var bkZoneArray = bkMetaArray[i].getAttribute("content").split("/");
+					for(var z=0;z<bkZoneArray.length;z++){
+						var bkHint = "z"+z;
+						bk_addPageCtx(bkHint, bkZoneArray[z]);
+					}
+				}
+			}
+		}
+		bk_addPageCtx("wtc", bkWTFPCCookieKey);	
+		bk_addPageCtx("log", bkLoginCookieValue);
+		bk_addPageCtx("soc", bkSocialLogin);
+		bk_addPageCtx("hsh", bkRegVal);
+		bk_addPageCtx("ref", bkReferrer);
+		bk_addPageCtx("sea", bkSearchVal);
+		bk_doJSTag(4972, 10);
+	}	
+	catch(e){}
+</script>
+<!-- End BlueKai Tag -->
+
+</body>
+</html>
+

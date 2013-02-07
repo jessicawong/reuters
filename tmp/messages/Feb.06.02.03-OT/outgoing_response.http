@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 06 Feb 2013 10:03:35 GMT
+Server: Apache
+Expires: Wed, 6 Feb 2013 10:02:18 GMT
+Age: 77
+Vary: Accept-Encoding
+Content-Length: 503
+Connection: close
+Content-Type: text/html;charset=UTF-8
+X-Q-S: 200000974000964000000
+X-M-V: 4.1.215
+X-S-V: /reuters2 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--[if !IE]> This has been served from cache <![endif]--><!--[if !IE]> Request served from apache server: S264630NJ2XSF32 <![endif]--><!--[if !IE]> Cached on Wed, 06 Feb 2013 10:02:18 GMT and will expire on Wed, 06 Feb 2013 10:07:18 GMT <![endif]--><!--[if !IE]> token: 7ae14650-dd63-44f6-8c3d-f7b0550a8de1 <![endif]--><!--[if !IE]> CSTAT-UUID: 21031325-8d07-4665-916d-647382211695 <![endif]-->

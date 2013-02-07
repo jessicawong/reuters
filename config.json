@@ -1,0 +1,28 @@
+{
+	"host_map": [
+		"$.reuters.com => www.reuters.com",
+		"$.reuters.com => reuters.com",
+		"$.ara.reuters.com => ara.reuters.com",
+		"$.ar.reuters.com => ar.reuters.com",
+		"$.br.reuters.com => br.reuters.com",
+		"$.ca.reuters.com => ca.reuters.com",
+		"$.cn.reuters.com => cn.reuters.com",
+		"$.fr.reuters.com => fr.reuters.com",
+		"$.de.reuters.com => de.reuters.com",
+		"$.in.reuters.com => in.reuters.com",
+		"$.it.reuters.com => it.reuters.com",
+		"$.jp.reuters.com => jp.reuters.com",
+		"$.lta.reuters.com => lta.reuters.com",
+		"$.mx.reuters.com => mx.reuters.com",
+		"$.ru.reuters.com => ru.reuters.com",
+		"$.es.reuters.com => es.reuters.com",
+		"$.uk.reuters.com => uk.reuters.com",
+		"$.newsandinsight.thomsonreuters.com => newsandinsight.thomsonreuters.com",
+		"$.blogs.reuters.com => blogs.reuters.com",
+		"$.commerce.us.reuters.com => commerce.us.reuters.com",
+		"$.alerts.us.reuters.com => alerts.us.reuters.com",
+		"$.portfolio.us.reuters.com => portfolio.us.reuters.com",
+		"$.stockscreener.us.reuters.com => stockscreener.us.reuters.com",
+		"$.funds.us.reuters.com => funds.us.reuters.com"
+	]
+}
